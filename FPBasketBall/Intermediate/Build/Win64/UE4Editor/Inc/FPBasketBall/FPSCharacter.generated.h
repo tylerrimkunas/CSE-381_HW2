@@ -16,12 +16,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FPBasketBall_Source_FPBasketBall_FPSCharacter_h_12_SPARSE_DATA
 #define FPBasketBall_Source_FPBasketBall_FPSCharacter_h_12_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execStopJump); \
+	DECLARE_FUNCTION(execStartJump); \
 	DECLARE_FUNCTION(execMoveRight); \
 	DECLARE_FUNCTION(execMoveForward);
 
 
 #define FPBasketBall_Source_FPBasketBall_FPSCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execStopJump); \
+	DECLARE_FUNCTION(execStartJump); \
 	DECLARE_FUNCTION(execMoveRight); \
 	DECLARE_FUNCTION(execMoveForward);
 

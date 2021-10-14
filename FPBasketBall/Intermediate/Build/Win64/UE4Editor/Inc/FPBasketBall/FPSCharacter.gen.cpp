@@ -18,6 +18,20 @@ void EmptyLinkFunctionForGeneratedCodeFPSCharacter() {}
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_FPBasketBall();
 // End Cross Module References
+	DEFINE_FUNCTION(AFPSCharacter::execStopJump)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->StopJump();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(AFPSCharacter::execStartJump)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->StartJump();
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(AFPSCharacter::execMoveRight)
 	{
 		P_GET_PROPERTY(FFloatProperty,Z_Param_Value);
@@ -40,6 +54,8 @@ void EmptyLinkFunctionForGeneratedCodeFPSCharacter() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "MoveForward", &AFPSCharacter::execMoveForward },
 			{ "MoveRight", &AFPSCharacter::execMoveRight },
+			{ "StartJump", &AFPSCharacter::execStartJump },
+			{ "StopJump", &AFPSCharacter::execStopJump },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -111,6 +127,54 @@ void EmptyLinkFunctionForGeneratedCodeFPSCharacter() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_AFPSCharacter_StartJump_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFPSCharacter_StartJump_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "// Sets jump flag when key is pressed.\n" },
+		{ "ModuleRelativePath", "FPSCharacter.h" },
+		{ "ToolTip", "Sets jump flag when key is pressed." },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFPSCharacter_StartJump_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFPSCharacter, nullptr, "StartJump", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFPSCharacter_StartJump_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AFPSCharacter_StartJump_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFPSCharacter_StartJump()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFPSCharacter_StartJump_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_AFPSCharacter_StopJump_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AFPSCharacter_StopJump_Statics::Function_MetaDataParams[] = {
+		{ "Comment", "// Clears jump flag when key is released.\n" },
+		{ "ModuleRelativePath", "FPSCharacter.h" },
+		{ "ToolTip", "Clears jump flag when key is released." },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AFPSCharacter_StopJump_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AFPSCharacter, nullptr, "StopJump", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AFPSCharacter_StopJump_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AFPSCharacter_StopJump_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AFPSCharacter_StopJump()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AFPSCharacter_StopJump_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_AFPSCharacter_NoRegister()
 	{
 		return AFPSCharacter::StaticClass();
@@ -132,6 +196,8 @@ void EmptyLinkFunctionForGeneratedCodeFPSCharacter() {}
 	const FClassFunctionLinkInfo Z_Construct_UClass_AFPSCharacter_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AFPSCharacter_MoveForward, "MoveForward" }, // 1261208855
 		{ &Z_Construct_UFunction_AFPSCharacter_MoveRight, "MoveRight" }, // 798508334
+		{ &Z_Construct_UFunction_AFPSCharacter_StartJump, "StartJump" }, // 1058356755
+		{ &Z_Construct_UFunction_AFPSCharacter_StopJump, "StopJump" }, // 2727326724
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AFPSCharacter_Statics::Class_MetaDataParams[] = {
@@ -167,7 +233,7 @@ void EmptyLinkFunctionForGeneratedCodeFPSCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AFPSCharacter, 2509644895);
+	IMPLEMENT_CLASS(AFPSCharacter, 1784314110);
 	template<> FPBASKETBALL_API UClass* StaticClass<AFPSCharacter>()
 	{
 		return AFPSCharacter::StaticClass();
