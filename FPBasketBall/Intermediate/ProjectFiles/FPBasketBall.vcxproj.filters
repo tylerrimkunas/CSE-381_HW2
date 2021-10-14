@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPBasketBall.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{574C059F-D6DE-4688-95DF-32847CD2A0A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPBasketBall.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPBasketBallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7F768D5D-0EFA-46F9-8F17-96DC2CFCBFF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPBasketBall">
+      <UniqueIdentifier>{75467F74-1EBE-4852-8D16-F8AB0E3F8134}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPBasketBall\FPBasketBall.Build.cs">
+      <Filter>Source\FPBasketBall</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPBasketBall\FPBasketBall.cpp">
+      <Filter>Source\FPBasketBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPBasketBall\FPBasketBall.h">
+      <Filter>Source\FPBasketBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPBasketBall\FPBasketBallGameModeBase.cpp">
+      <Filter>Source\FPBasketBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPBasketBall\FPBasketBallGameModeBase.h">
+      <Filter>Source\FPBasketBall</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPBasketBall\FPSCharacter.cpp">
+      <Filter>Source\FPBasketBall</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPBasketBall\FPSCharacter.h">
+      <Filter>Source\FPBasketBall</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

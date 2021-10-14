@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPBasketBall-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\FPBasketBallEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\UE4Editor\Development\FPBasketBall\FPBasketBall.cpp.obj"
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\UE4Editor\Development\FPBasketBall\FPBasketBallGameModeBase.cpp.obj"
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\UE4Editor\Development\FPBasketBall\FPBasketBall.init.gen.cpp.obj"
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\UE4Editor\Development\FPBasketBall\FPBasketBallGameModeBase.gen.cpp.obj"
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\UE4Editor\Development\FPBasketBall\Default.rc2.res"
+/OUT:"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPBasketBall\Intermediate\Build\Win64\UE4Editor\Development\FPBasketBall\UE4Editor-FPBasketBall-0001.lib"

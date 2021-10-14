@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPBasketBall",
+			"Path": "C:\\Users\\Tyler\\Documents\\Stony Brook University\\Fall 2021\\CSE 381\\Homework\\CSE-381_HW2\\FPBasketBall\\Source\\FPBasketBall.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPBasketBallEditor",
+			"Path": "C:\\Users\\Tyler\\Documents\\Stony Brook University\\Fall 2021\\CSE 381\\Homework\\CSE-381_HW2\\FPBasketBall\\Source\\FPBasketBallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
