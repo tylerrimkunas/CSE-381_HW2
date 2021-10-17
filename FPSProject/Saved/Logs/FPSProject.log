@@ -5331,3 +5331,15 @@ Error: CDO Constructor (FPSProjectile): Failed to find '/Game/SphereMaterial.Sph
 [2021.10.17-20.28.35:456][ 86]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.17-20.28.35:456][ 86]LogContentValidation: Display: Validating World /Game/Maps/FPSMap.FPSMap
 [2021.10.17-20.28.35:456][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FPSMap_BuiltData.FPSMap_BuiltData
+[2021.10.17-20.30.27:966][ 42]LogActorFactory: Actor Factory created Cylinder
+[2021.10.17-20.30.37:125][136]LogActorFactory: Actor Factory created Cylinder
+[2021.10.17-20.31.33:062][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hoop-Blue)
+[2021.10.17-20.31.54:156][641]Cmd: DUPLICATE
+[2021.10.17-20.31.54:156][641]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.32.18:206][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Court1)
+[2021.10.17-20.32.26:748][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.17-20.32.26:763][228]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap085459334566654113ACAEB2987ED060.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Maps/FPSMap.umap'
+[2021.10.17-20.32.26:781][228]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap_BuiltData4AF38E974298416AAA155F914A2AD97C.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Maps/FPSMap_BuiltData.uasset'
+[2021.10.17-20.32.26:812][228]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.32.26:812][228]LogContentValidation: Display: Validating World /Game/Maps/FPSMap.FPSMap
+[2021.10.17-20.32.26:812][228]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FPSMap_BuiltData.FPSMap_BuiltData
