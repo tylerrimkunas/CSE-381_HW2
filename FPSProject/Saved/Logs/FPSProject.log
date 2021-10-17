@@ -3961,3 +3961,1373 @@ Error: CDO Constructor (FPSProjectile): Failed to find '/Game/SphereMaterial.Sph
 [2021.10.17-19.34.40:645][584]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap4B0847F24CE698AC53F60B894CFDCF31.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Maps/FPSMap.umap'
 [2021.10.17-19.34.40:662][584]AssetCheck: New page: Asset Save: FPSMap
 [2021.10.17-19.34.40:662][584]LogContentValidation: Display: Validating World /Game/Maps/FPSMap.FPSMap
+[2021.10.17-19.42.01:580][599]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
+[2021.10.17-19.42.26:291][449]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-19.42.26:296][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-19.42.26:296][449]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 11:42:26 AM)
+[2021.10.17-19.42.26:335][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.42.26:337][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002121s)
+[2021.10.17-19.42.26:338][449]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-19.42.26:338][449]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2021.10.17-19.42.26:338][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003300s)
+[2021.10.17-19.42.26:342][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.17-19.42.26:344][449]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.42.26:344][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.42.26:344][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-19.42.26:344][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-19.42.26:344][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-19.42.26:344][449]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.42.26:348][449]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.42.26:348][449]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.42.26:354][449]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-19.42.26:354][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.42.26:354][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.42.26:354][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.42.26:355][449]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.42.26:355][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.42.26:355][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.42.26:356][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.42.26:356][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.42.26:356][449]LogInit: FAudioDevice initialized.
+[2021.10.17-19.42.26:356][449]LogAudio: Display: Audio Device (ID: 40) registered with world 'FPSMap'.
+[2021.10.17-19.42.26:365][449]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-19.42.26:366][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-15.42.26
+[2021.10.17-19.42.26:366][449]LogWorld: Bringing up level for play took: 0.000466
+[2021.10.17-19.42.26:366][449]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.10.17-19.42.26:368][449]PIE: Server logged in
+[2021.10.17-19.42.26:369][449]PIE: Play in editor total start time 0.073 seconds.
+[2021.10.17-19.43.33:135][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.43.33:135][451]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.43.33:136][451]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.43.33:136][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.43.33:142][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-19.43.33:155][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.43.33:158][451]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-19.43.33:158][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.43.33:159][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.43.33:161][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.43.33:162][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.17-19.43.33:226][453]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.10.17-19.45.47:564][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.17-19.45.47:573][991]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto3F841DF5C4FB49F7F09A6AB98524CF706.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto3.umap'
+[2021.10.17-19.45.47:575][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.014
+[2021.10.17-19.45.47:575][991]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2021.10.17-19.56.52:953][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Court1)
+[2021.10.17-19.58.01:134][841]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-19.58.01:139][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-19.58.01:139][841]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 11:58:01 AM)
+[2021.10.17-19.58.01:164][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.58.01:166][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002107s)
+[2021.10.17-19.58.01:167][841]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-19.58.01:167][841]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2021.10.17-19.58.01:167][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003180s)
+[2021.10.17-19.58.01:171][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.17-19.58.01:173][841]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.58.01:173][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.58.01:173][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-19.58.01:173][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-19.58.01:173][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-19.58.01:173][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.58.01:177][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.58.01:177][841]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.58.01:183][841]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-19.58.01:183][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.58.01:183][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.58.01:183][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.58.01:183][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.58.01:183][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.58.01:183][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.58.01:184][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.58.01:184][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.58.01:184][841]LogInit: FAudioDevice initialized.
+[2021.10.17-19.58.01:184][841]LogAudio: Display: Audio Device (ID: 41) registered with world 'FPSMap'.
+[2021.10.17-19.58.01:196][841]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-19.58.01:196][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-15.58.01
+[2021.10.17-19.58.01:196][841]LogWorld: Bringing up level for play took: 0.000490
+[2021.10.17-19.58.01:197][841]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.10.17-19.58.01:199][841]PIE: Server logged in
+[2021.10.17-19.58.01:199][841]PIE: Play in editor total start time 0.061 seconds.
+[2021.10.17-19.58.04:415][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.58.04:415][218]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.58.04:415][218]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.58.04:416][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.58.04:423][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-19.58.04:432][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.58.04:435][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-19.58.04:435][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.58.04:436][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.58.04:437][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.58.04:439][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.17-19.58.04:496][220]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.10.17-19.58.48:915][481]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-19.58.48:920][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-19.58.48:920][481]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 11:58:48 AM)
+[2021.10.17-19.58.48:945][481]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.58.48:948][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2021.10.17-19.58.48:948][481]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-19.58.48:949][481]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2021.10.17-19.58.48:949][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.004009s)
+[2021.10.17-19.58.48:952][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-19.58.48:954][481]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.58.48:954][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.58.48:954][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.58.48:955][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-19.58.48:955][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-19.58.48:955][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-19.58.48:955][481]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.58.48:957][481]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.58.48:957][481]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.58.48:963][481]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-19.58.48:963][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.58.48:963][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.58.48:963][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.58.48:964][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.58.48:964][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.58.48:964][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.58.48:965][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.58.48:965][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.58.48:965][481]LogInit: FAudioDevice initialized.
+[2021.10.17-19.58.48:965][481]LogAudio: Display: Audio Device (ID: 42) registered with world 'FPSMap'.
+[2021.10.17-19.58.48:975][481]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-19.58.48:975][481]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-15.58.48
+[2021.10.17-19.58.48:975][481]LogWorld: Bringing up level for play took: 0.000480
+[2021.10.17-19.58.48:976][481]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.10.17-19.58.48:978][481]PIE: Server logged in
+[2021.10.17-19.58.48:978][481]PIE: Play in editor total start time 0.059 seconds.
+[2021.10.17-19.58.52:025][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.58.52:025][840]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.58.52:025][840]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.58.52:025][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.58.52:034][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-19.58.52:042][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.58.52:045][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.58.52:045][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.58.52:046][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.58.52:050][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-19.58.52:109][842]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.10.17-19.58.55:748][237]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.10.17-19.58.56:542][331]Cmd: DELETE
+[2021.10.17-19.58.56:542][331]Cmd: ACTOR DELETE
+[2021.10.17-19.58.56:544][331]LogEditorActor: Deleted Actor: SpotLight
+[2021.10.17-19.58.56:547][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.17-19.58.56:548][331]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.10.17-19.58.57:597][457]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-19.58.57:602][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-19.58.57:602][457]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 11:58:57 AM)
+[2021.10.17-19.58.57:635][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.58.57:636][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001849s)
+[2021.10.17-19.58.57:637][457]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-19.58.57:637][457]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2021.10.17-19.58.57:637][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.002894s)
+[2021.10.17-19.58.57:641][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.17-19.58.57:642][457]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.58.57:642][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.58.57:642][457]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-19.58.57:642][457]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-19.58.57:642][457]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-19.58.57:642][457]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.58.57:644][457]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.58.57:644][457]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.58.57:650][457]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-19.58.57:650][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.58.57:650][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.58.57:650][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.58.57:651][457]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.58.57:651][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.58.57:651][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.58.57:652][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.58.57:652][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.58.57:652][457]LogInit: FAudioDevice initialized.
+[2021.10.17-19.58.57:652][457]LogAudio: Display: Audio Device (ID: 43) registered with world 'FPSMap'.
+[2021.10.17-19.58.57:661][457]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-19.58.57:662][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-15.58.57
+[2021.10.17-19.58.57:662][457]LogWorld: Bringing up level for play took: 0.000455
+[2021.10.17-19.58.57:662][457]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.10.17-19.58.57:664][457]PIE: Server logged in
+[2021.10.17-19.58.57:665][457]PIE: Play in editor total start time 0.063 seconds.
+[2021.10.17-19.59.03:585][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.59.03:585][161]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.59.03:585][161]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.59.03:586][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.59.03:590][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-19.59.03:592][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.59.03:595][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.59.03:595][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.59.03:596][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.59.03:599][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.17-19.59.03:646][163]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.10.17-19.59.15:427][543]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-19.59.15:432][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-19.59.15:432][543]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 11:59:15 AM)
+[2021.10.17-19.59.15:465][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.59.15:467][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002115s)
+[2021.10.17-19.59.15:468][543]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-19.59.15:468][543]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2021.10.17-19.59.15:468][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003194s)
+[2021.10.17-19.59.15:472][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-19.59.15:473][543]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.59.15:473][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.59.15:473][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-19.59.15:473][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-19.59.15:473][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-19.59.15:473][543]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.59.15:476][543]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.59.15:476][543]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.59.15:482][543]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-19.59.15:482][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.59.15:482][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.59.15:482][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.59.15:483][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.59.15:483][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.59.15:483][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.59.15:484][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.59.15:484][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.59.15:484][543]LogInit: FAudioDevice initialized.
+[2021.10.17-19.59.15:484][543]LogAudio: Display: Audio Device (ID: 44) registered with world 'FPSMap'.
+[2021.10.17-19.59.15:492][543]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-19.59.15:493][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-15.59.15
+[2021.10.17-19.59.15:493][543]LogWorld: Bringing up level for play took: 0.000453
+[2021.10.17-19.59.15:493][543]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.10.17-19.59.15:495][543]PIE: Server logged in
+[2021.10.17-19.59.15:496][543]PIE: Play in editor total start time 0.064 seconds.
+[2021.10.17-19.59.23:525][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.59.23:525][503]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-19.59.23:525][503]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.59.23:525][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.59.23:533][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-19.59.23:534][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.59.23:537][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-19.59.23:537][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.59.23:538][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.59.23:540][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.59.23:541][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.17-19.59.23:602][507]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.10.17-19.59.26:369][816]Candidate modules for hot reload:
+[2021.10.17-19.59.26:369][816]  FPSProject
+[2021.10.17-19.59.26:369][816]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FPSProject,1121 FPSProjectEditor Win64 Development -Project="C:/Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/FPSProject.uproject" "C:/Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/FPSProject.uproject"  -IgnoreJunk]
+[2021.10.17-19.59.26:370][816]Warning: Starting HotReload took  0.2s.
+[2021.10.17-19.59.31:662][419]CompilerResultsLog: New page: Compilation - Oct 17, 2021, 11:59:31 AM
+[2021.10.17-19.59.31:721][419]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2).
+[2021.10.17-19.59.31:721][419]CompilerResultsLog: Building FPSProjectEditor...
+[2021.10.17-19.59.31:721][419]CompilerResultsLog: Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.10.17-19.59.31:721][419]CompilerResultsLog: Building 3 actions with 24 processes...
+[2021.10.17-19.59.31:721][419]CompilerResultsLog:   [1/3] UE4Editor-FPSProject-1121.lib
+[2021.10.17-19.59.31:721][419]CompilerResultsLog:      Creating library C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-1121.lib and object C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-1121.exp
+[2021.10.17-19.59.31:721][419]CompilerResultsLog:   [2/3] UE4Editor-FPSProject-1121.dll
+[2021.10.17-19.59.31:721][419]CompilerResultsLog:      Creating library C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-1121.suppressed.lib and object C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-1121.suppressed.exp
+[2021.10.17-19.59.31:721][419]CompilerResultsLog:   [3/3] FPSProjectEditor.target
+[2021.10.17-19.59.31:721][419]CompilerResultsLog: Total time in Parallel executor: 0.96 seconds
+[2021.10.17-19.59.31:721][419]CompilerResultsLog: Total execution time: 4.83 seconds
+[2021.10.17-19.59.31:721][419]LogMainFrame: MainFrame: Module compiling took 5.369 seconds
+[2021.10.17-19.59.31:746][419]LogHotReload: Re-instancing FPSProjectile after hot-reload.
+[2021.10.17-19.59.31:750][419]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FPSProject' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.10.17-19.59.31:752][419]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2021.10.17-19.59.31:792][419]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3826 classes and 930 folders.
+[2021.10.17-19.59.31:792][419]Display: HotReload took  5.6s.
+[2021.10.17-19.59.32:548][501]MapCheck: New page: Map Check
+[2021.10.17-19.59.32:583][501]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.17-19.59.32:583][501]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.17-19.59.32:634][501]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.17-19.59.32:828][501]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.17-19.59.32:828][501]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.17-19.59.32:828][501]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.17-19.59.33:194][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.17-19.59.33:841][501]LogLevel: Display: Export Material TexCoord Scales took 0.548 seconds.
+[2021.10.17-19.59.33:934][501]TextureStreamingBuild: Display: Build Texture Streaming took 0.041 seconds.
+[2021.10.17-19.59.33:937][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.17-19.59.33:990][501]LightingResults: New page: Lighting Build - Oct 17, 2021, 11:59:33 AM
+[2021.10.17-19.59.35:683][501]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.17-19.59.36:427][501]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.17-19.59.36:760][501]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.17-19.59.38:288][501]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.17-19.59.38:288][501]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16064
+[2021.10.17-19.59.47:894][501]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.17-19.59.47:923][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.17-19.59.47:923][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.17-19.59.47:923][501]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.17-19.59.47:923][501]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.17-19.59.47:923][501]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.17-19.59.48:282][501]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.17-19.59.48:282][501]MapCheck: New page: FPSMap - Oct 17, 2021, 11:59:48 AM
+[2021.10.17-19.59.48:283][501]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.10.17-19.59.48:328][501]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 45.838ms to complete.
+[2021.10.17-19.59.48:350][501]LogEditorBuildUtils: Build time 0:15
+[2021.10.17-19.59.48:422][501]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E196F04F6F9970EA62120D75BF8070669BA10977), compiling. 
+[2021.10.17-19.59.48:498][501]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:498][501]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED95D2B258450F45B96DD24FF92CD0213EF3DA23), compiling. 
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2021.10.17-19.59.48:523][501]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:628][502]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 24B60B88D19FBA316DBEE5D7CD3C4E4E47E5E339), compiling. 
+[2021.10.17-19.59.48:630][502]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:631][502]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 2
+[2021.10.17-19.59.48:631][502]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 1
+[2021.10.17-19.59.48:631][502]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:631][502]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 009404A3B8B08455BB16398882E1A35CB76697F6), compiling. 
+[2021.10.17-19.59.48:634][502]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:679][502]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 2
+[2021.10.17-19.59.48:679][502]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 1
+[2021.10.17-19.59.48:679][502]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:679][502]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 09BE4C7A08E9CF5953A86E83F05117832C1466B9), compiling. Is special engine material.
+[2021.10.17-19.59.48:683][502]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:686][502]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2021.10.17-19.59.48:686][502]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2021.10.17-19.59.48:686][502]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:686][502]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A2E71CE4DF26E5630E073D9FE8BE1AFD709D796A), compiling. Is special engine material.
+[2021.10.17-19.59.48:689][502]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.48:767][502]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 2
+[2021.10.17-19.59.48:767][502]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 1
+[2021.10.17-19.59.48:767][502]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.49:187][503]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.17-19.59.49:187][503]LogShaderCompilers: Display: Total job queries 540, among them cache hits 212 (39.26%)
+[2021.10.17-19.59.49:187][503]LogShaderCompilers: Display: Tracking 308 distinct input hashes that result in 102 distinct outputs (33.12%)
+[2021.10.17-19.59.49:187][503]LogShaderCompilers: Display: RAM used: 0.55 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2021.10.17-19.59.49:187][503]LogShaderCompilers: Display: ================================================
+[2021.10.17-19.59.49:510][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.17-19.59.51:656][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.10.17-19.59.51:664][548]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto4E869D9AF4F6512157F7D4C9CD4000A31.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto4.umap'
+[2021.10.17-19.59.51:666][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.013
+[2021.10.17-19.59.51:666][548]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2021.10.17-19.59.53:449][650]Job is a success!
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.044s
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:          1: 2.2% covering 6.2% of volume
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:          2: 97.3% covering 4.4% of volume
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.17-19.59.53:866][651]LogVolumetricLightmapImport:          FPSMap 			 186 bricks 	 100.0% (Persistent Level)
+[2021.10.17-19.59.54:010][651]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2021.10.17-19.59.54:010][651]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2021.10.17-19.59.54:010][651]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2021.10.17-19.59.54:010][651]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2021.10.17-19.59.54:247][651]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.10.17-19.59.54:247][651]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X128)
+[2021.10.17-19.59.54:247][651]Lightmass on TYLER-PC: 2.66 sec total, 118 ms importing, 12 ms setup, 223 ms photons, 1.15 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 26.5 sec total, 635 ms processing.
+[2021.10.17-19.59.54:289][651]LogStaticLightingSystem: FPSMap_BuiltData storing lightmap data for 8 meshes in 2 LightmapResourceClusters (4.0 Meshes per cluster).
+[2021.10.17-19.59.54:320][651]LogMaterial: Display: Material /Game/BasketBallCourt.BasketBallCourt needed to have new flag set bUsedWithStaticLighting !
+[2021.10.17-19.59.54:321][651]LogMaterial: Display: Missing cached shadermap for BasketBallCourt in PCD3D_SM5, Default, SM5 (DDC key hash: 47559E3A3EC2F6B6E21EA0D47FD2C0EF098B5C1E), compiling. 
+[2021.10.17-19.59.54:397][651]LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2021.10.17-19.59.54:401][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 15
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 14
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 13
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 12
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 11
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 10
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 9
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 8
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 7
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 6
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 5
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 4
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 3
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 2
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 1
+[2021.10.17-19.59.54:406][651]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-19.59.54:415][651]LogStaticLightingSystem: Illumination: 20.3 sec (122 ms encoding lightmaps, 36 ms encoding shadowmaps)
+[2021.10.17-19.59.54:415][651]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.10.17-19.59.54:415][651]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.17-19.59.54:892][651]DumpUnbuiltLightIteractions
+[2021.10.17-19.59.54:892][651]Lights with unbuilt interactions: 0
+[2021.10.17-19.59.54:892][651]
+[2021.10.17-19.59.54:892][651]Primitives with unbuilt interactions: 0
+[2021.10.17-19.59.55:249][651]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.10.17-19.59.55:271][652]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.17-19.59.55:271][652]MapCheck: New page: FPSMap - Oct 17, 2021, 11:59:55 AM
+[2021.10.17-19.59.55:271][652]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.361ms to complete.
+[2021.10.17-19.59.59:313][136]LogSlate: Window 'Message Log' being destroyed
+[2021.10.17-19.59.59:316][136]LogSlate: Window 'Message Log' being destroyed
+[2021.10.17-20.00.44:657][563]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.00.44:662][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.00.44:662][563]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:00:44 PM)
+[2021.10.17-20.00.44:685][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.00.44:687][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002320s)
+[2021.10.17-20.00.44:688][563]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.00.44:688][563]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2021.10.17-20.00.44:688][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003426s)
+[2021.10.17-20.00.44:707][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.17-20.00.44:709][563]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.00.44:709][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.00.44:709][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.00.44:710][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.00.44:710][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.00.44:710][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.00.44:710][563]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.00.44:713][563]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.00.44:713][563]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.00.44:718][563]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.00.44:719][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.00.44:719][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.00.44:719][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.00.44:719][563]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.00.44:719][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.00.44:719][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.00.44:720][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.00.44:720][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.00.44:720][563]LogInit: FAudioDevice initialized.
+[2021.10.17-20.00.44:720][563]LogAudio: Display: Audio Device (ID: 45) registered with world 'FPSMap'.
+[2021.10.17-20.00.44:729][563]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.00.44:730][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.00.44
+[2021.10.17-20.00.44:730][563]LogWorld: Bringing up level for play took: 0.000461
+[2021.10.17-20.00.44:730][563]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.10.17-20.00.44:733][563]PIE: Server logged in
+[2021.10.17-20.00.44:733][563]PIE: Play in editor total start time 0.072 seconds.
+[2021.10.17-20.01.16:865][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.01.16:865][410]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.01.16:865][410]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.01.16:865][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.01.16:875][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.01.16:877][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.01.16:880][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.01.16:880][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.01.16:881][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.01.16:884][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.01.16:887][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.17-20.01.16:937][413]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.10.17-20.01.35:866][673]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stands1)
+[2021.10.17-20.01.36:454][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.01.42:350][430]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stands1)
+[2021.10.17-20.01.42:891][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.01.48:114][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.01.56:992][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.00:742][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.02:641][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.05:676][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.06:069][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.07:944][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.14:339][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.17-20.03.47:405][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.03.48:054][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands2)
+[2021.10.17-20.03.56:624][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands2)
+[2021.10.17-20.03.56:645][165]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.10.17-20.04.28:760][956]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2021.10.17-20.04.41:282][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Court1)
+[2021.10.17-20.04.58:910][539]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.04.58:915][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.04.58:915][539]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:04:58 PM)
+[2021.10.17-20.04.58:915][539]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.04.58:918][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2021.10.17-20.04.58:918][539]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.04.58:919][539]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2021.10.17-20.04.58:919][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003259s)
+[2021.10.17-20.04.58:922][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.17-20.04.58:924][539]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.04.58:924][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.04.58:924][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.04.58:924][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.04.58:924][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.04.58:924][539]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.04.58:927][539]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.04.58:927][539]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.04.58:934][539]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.04.58:934][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.04.58:934][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.04.58:934][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.04.58:934][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.04.58:935][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.04.58:935][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.04.58:935][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.04.58:936][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.04.58:936][539]LogInit: FAudioDevice initialized.
+[2021.10.17-20.04.58:936][539]LogAudio: Display: Audio Device (ID: 46) registered with world 'FPSMap'.
+[2021.10.17-20.04.58:942][539]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.04.58:943][539]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.04.58
+[2021.10.17-20.04.58:943][539]LogWorld: Bringing up level for play took: 0.000539
+[2021.10.17-20.04.58:943][539]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.10.17-20.04.58:945][539]PIE: Server logged in
+[2021.10.17-20.04.58:946][539]PIE: Play in editor total start time 0.031 seconds.
+[2021.10.17-20.05.31:925][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.05.31:925][486]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.05.31:925][486]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.05.31:925][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.05.31:935][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.05.31:950][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.05.31:953][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.05.31:953][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.05.31:954][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.05.31:956][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.05.31:958][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-20.05.32:019][488]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.10.17-20.05.35:923][887]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BasketBallCourt.BasketBallCourt
+[2021.10.17-20.05.35:924][887]LogMaterial: Display: Missing cached shadermap for BasketBallCourt in PCD3D_SM5, Default, SM5 (DDC key hash: F816673EEA162DCE8991E23C994E88B3AD546164), compiling. 
+[2021.10.17-20.05.35:940][887]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.17-20.05.35:940][887]LogShaderCompilers: Display: Total job queries 577, among them cache hits 234 (40.55%)
+[2021.10.17-20.05.35:940][887]LogShaderCompilers: Display: Tracking 323 distinct input hashes that result in 115 distinct outputs (35.60%)
+[2021.10.17-20.05.35:940][887]LogShaderCompilers: Display: RAM used: 0.61 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2021.10.17-20.05.35:940][887]LogShaderCompilers: Display: ================================================
+[2021.10.17-20.05.36:020][887]LogMaterial: Display: Missing cached shadermap for BasketBallCourt in PCD3D_SM5, Default, SM5 (DDC key hash: 4BBD5E776900E44448ADE323592E99727660ECDB), compiling. 
+[2021.10.17-20.05.36:022][887]LogMaterial: Display: Missing cached shadermap for BasketBallCourt in PCD3D_SM5, Default, SM5 (DDC key hash: 96FEDA881731E341B8C85ED53C09CE1DB2A152FB), compiling. 
+[2021.10.17-20.05.36:030][887]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.17-20.05.36:093][889]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.10.17-20.05.36:093][889]MaterialEditorStats: Base pass shader with Surface Lightmap: 144 instructions
+[2021.10.17-20.05.36:093][889]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.10.17-20.05.36:093][889]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.10.17-20.05.36:093][889]MaterialEditorStats: Texture samplers: 2/16
+[2021.10.17-20.05.47:272][917]LogSlate: Window 'Save Asset As' being destroyed
+[2021.10.17-20.05.53:221][580]LogSlate: Window 'BasketBallCourt' being destroyed
+[2021.10.17-20.05.53:225][580]LogSlate: Window 'BasketBallCourt' being destroyed
+[2021.10.17-20.05.53:264][580]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.05.53:265][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.05.56:890][919]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BBOrange.BBOrange
+[2021.10.17-20.05.56:891][919]LogMaterial: Display: Missing cached shadermap for BBOrange in PCD3D_SM5, Default, SM5 (DDC key hash: BB5623AD5AD12213B8BC27854392E97B4D997669), compiling. 
+[2021.10.17-20.05.56:898][919]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.10.17-20.05.56:975][919]LogMaterial: Display: Missing cached shadermap for BBOrange in PCD3D_SM5, Default, SM5 (DDC key hash: 4E9D2B17A071AA0EDF0D05CF1B50CE34F62B1EB6), compiling. 
+[2021.10.17-20.05.56:976][919]LogMaterial: Display: Missing cached shadermap for BBOrange in PCD3D_SM5, Default, SM5 (DDC key hash: 19C82319021C1B4D4D7290C438F9C0395D20DAF7), compiling. 
+[2021.10.17-20.05.56:977][919]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D0EF9E9E3DD00C0D5A94D62A86401CA6EB233F8E), compiling. 
+[2021.10.17-20.05.56:985][919]MaterialEditorStats: Texture samplers: 0/16
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 2
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 1
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 8
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 7
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 6
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 5
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 4
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 3
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 2
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 1
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.10.17-20.05.57:021][920]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.17-20.05.57:658][955]MaterialEditorStats: Texture samplers: 2/16
+[2021.10.17-20.05.57:735][962]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.10.17-20.05.57:735][962]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.10.17-20.05.57:735][962]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.10.17-20.05.57:735][962]MaterialEditorStats: Texture samplers: 2/16
+[2021.10.17-20.06.11:563][535]LogSlate: Window 'BBOrange' being destroyed
+[2021.10.17-20.06.11:567][535]LogSlate: Window 'BBOrange' being destroyed
+[2021.10.17-20.06.11:594][535]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.06.11:594][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.06.18:911][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.06.19:410][416]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.06.23:404][863]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.10.17-20.06.49:851][979]LogActorFactory: Actor Factory created Cube
+[2021.10.17-20.06.50:551][ 62]LogActorFactory: Actor Factory created Cube
+[2021.10.17-20.07.35:541][274]Cmd: TRANSACTION UNDO
+[2021.10.17-20.07.35:541][274]LogEditorTransaction: Undo Move Actors
+[2021.10.17-20.07.40:989][862]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2021.10.17-20.07.46:165][437]Cmd: DUPLICATE
+[2021.10.17-20.07.46:165][437]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.09.19:178][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.09.19:738][782]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.09.52:258][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.09.52:274][665]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent3)
+[2021.10.17-20.10.06:429][337]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.10.07:214][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.10.52:302][742]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.10.52:307][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.10.52:307][742]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:10:52 PM)
+[2021.10.17-20.10.52:344][742]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.10.52:347][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002564s)
+[2021.10.17-20.10.52:348][742]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.10.52:348][742]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.10.17-20.10.52:348][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003819s)
+[2021.10.17-20.10.52:353][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.17-20.10.52:356][742]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.10.52:356][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.10.52:356][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.10.52:356][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.10.52:356][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.10.52:356][742]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.10.52:359][742]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.10.52:359][742]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.10.52:365][742]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.10.52:365][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.10.52:365][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.10.52:365][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.10.52:366][742]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.10.52:366][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.10.52:366][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.10.52:367][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.10.52:367][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.10.52:367][742]LogInit: FAudioDevice initialized.
+[2021.10.17-20.10.52:367][742]LogAudio: Display: Audio Device (ID: 47) registered with world 'FPSMap'.
+[2021.10.17-20.10.52:378][742]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.10.52:379][742]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.10.52
+[2021.10.17-20.10.52:379][742]LogWorld: Bringing up level for play took: 0.000524
+[2021.10.17-20.10.52:379][742]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.10.17-20.10.52:381][742]PIE: Server logged in
+[2021.10.17-20.10.52:382][742]PIE: Play in editor total start time 0.076 seconds.
+[2021.10.17-20.11.13:725][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.11.13:725][295]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.11.13:725][295]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.11.13:726][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.11.13:735][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.11.13:741][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.11.13:744][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.11.13:744][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.11.13:745][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.11.13:747][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.11.13:749][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.17-20.11.13:812][297]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.10.17-20.11.23:930][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Blue)
+[2021.10.17-20.11.38:548][936]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.12.24:171][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.17-20.12.24:182][505]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto554CF005F4BAD4B144DE2059236FFB3F1.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto5.umap'
+[2021.10.17-20.12.24:183][505]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.016
+[2021.10.17-20.12.24:183][505]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2021.10.17-20.15.08:250][397]Cmd: DELETE
+[2021.10.17-20.15.08:250][397]Cmd: ACTOR DELETE
+[2021.10.17-20.15.08:251][397]LogEditorActor: Deleted Actor: Character
+[2021.10.17-20.15.08:255][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.17-20.15.08:257][397]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.10.17-20.15.42:801][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Court1)
+[2021.10.17-20.15.43:806][368]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2021.10.17-20.15.48:746][926]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.15.48:751][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.15.48:751][926]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:15:48 PM)
+[2021.10.17-20.15.48:784][926]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.15.48:787][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002416s)
+[2021.10.17-20.15.48:788][926]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.15.48:788][926]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2021.10.17-20.15.48:788][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003625s)
+[2021.10.17-20.15.48:792][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.17-20.15.48:793][926]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.15.48:793][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.15.48:793][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.15.48:794][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.15.48:794][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.15.48:794][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.15.48:794][926]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.15.48:796][926]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.15.48:796][926]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.15.48:802][926]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.15.48:802][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.15.48:802][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.15.48:802][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.15.48:803][926]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.15.48:803][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.15.48:803][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.15.48:803][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.15.48:803][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.15.48:803][926]LogInit: FAudioDevice initialized.
+[2021.10.17-20.15.48:803][926]LogAudio: Display: Audio Device (ID: 48) registered with world 'FPSMap'.
+[2021.10.17-20.15.48:815][926]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.15.48:816][926]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.15.48
+[2021.10.17-20.15.48:860][926]LogWorld: Bringing up level for play took: 0.043994
+[2021.10.17-20.15.48:860][926]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.10.17-20.15.48:862][926]PIE: Server logged in
+[2021.10.17-20.15.48:863][926]PIE: Play in editor total start time 0.113 seconds.
+[2021.10.17-20.15.57:644][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.15.57:644][969]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.15.57:644][969]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.15.57:644][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.15.57:654][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.15.57:686][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.15.57:689][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.15.57:689][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.15.57:690][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.15.57:692][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.15.57:727][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.17-20.15.57:762][970]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.10.17-20.16.09:430][267]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.16.09:434][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.16.09:434][267]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:16:09 PM)
+[2021.10.17-20.16.09:464][267]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.16.09:467][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002690s)
+[2021.10.17-20.16.09:468][267]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.16.09:468][267]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2021.10.17-20.16.09:468][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003883s)
+[2021.10.17-20.16.09:472][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.17-20.16.09:474][267]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.16.09:474][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.16.09:474][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.16.09:474][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.16.09:474][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.16.09:474][267]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.16.09:477][267]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.16.09:477][267]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.16.09:483][267]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.16.09:483][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.16.09:483][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.16.09:483][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.16.09:484][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.16.09:484][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.16.09:484][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.16.09:484][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.16.09:484][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.16.09:484][267]LogInit: FAudioDevice initialized.
+[2021.10.17-20.16.09:485][267]LogAudio: Display: Audio Device (ID: 49) registered with world 'FPSMap'.
+[2021.10.17-20.16.09:493][267]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.16.09:500][267]PIE: Warning: Invalid Simulate Options: Body (Character_4.CharacterMesh0 GenericMale) is set to simulate physics but Collision Enabled is incompatible
+[2021.10.17-20.16.09:500][267]PIE: Warning: Invalid Simulate Options: Body (Character_4.CharacterMesh0 GenericMale) is set to simulate physics but Collision Enabled is incompatible
+[2021.10.17-20.16.09:500][267]PIE: Warning: Invalid Simulate Options: Body (Character_4.CharacterMesh0 GenericMale) is set to simulate physics but Collision Enabled is incompatible
+[2021.10.17-20.16.09:500][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.16.09
+[2021.10.17-20.16.09:500][267]LogWorld: Bringing up level for play took: 0.007052
+[2021.10.17-20.16.09:500][267]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.10.17-20.16.09:503][267]PIE: Server logged in
+[2021.10.17-20.16.09:504][267]PIE: Play in editor total start time 0.07 seconds.
+[2021.10.17-20.16.14:115][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.16.14:115][816]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.16.14:115][816]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.16.14:116][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.16.14:121][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.16.14:153][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.16.14:156][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.16.14:156][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.16.14:157][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.16.14:160][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.17-20.16.14:272][817]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.10.17-20.16.28:285][449]LogSlate: Window 'Message Log' being destroyed
+[2021.10.17-20.16.28:289][449]LogSlate: Window 'Message Log' being destroyed
+[2021.10.17-20.16.53:868][248]LogContentBrowser: Deferred new asset file creation: GenericMale1
+[2021.10.17-20.16.53:901][248]LogContentBrowser: Creating deferred item: GenericMale1
+[2021.10.17-20.16.55:213][363]LogContentBrowser: Attempting asset rename: GenericMale1 -> GenericMale1
+[2021.10.17-20.16.55:493][363]LogContentBrowser: End creating deferred item GenericMale1
+[2021.10.17-20.16.57:958][585]LogContentBrowser: Deferred new asset file creation: GenericMale2
+[2021.10.17-20.16.57:971][585]LogContentBrowser: Creating deferred item: GenericMale2
+[2021.10.17-20.16.58:634][645]LogContentBrowser: Attempting asset rename: GenericMale2 -> GenericMale2
+[2021.10.17-20.16.58:951][645]LogContentBrowser: End creating deferred item GenericMale2
+[2021.10.17-20.16.59:218][665]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/GenericMale1.GenericMale1
+[2021.10.17-20.16.59:316][665]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.17-20.16.59:360][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.17-20.16.59:434][665]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.10.17-20.17.08:435][359]LogSlate: Window 'GenericMale1' being destroyed
+[2021.10.17-20.17.08:439][359]LogSlate: Window 'GenericMale1' being destroyed
+[2021.10.17-20.17.08:451][359]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.17.08:451][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.17.20:638][713]LogContentBrowser: Attempting asset rename: GenericMale1 -> Opponent-Blue
+[2021.10.17-20.17.20:811][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opponent-Blue" FILE="../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Blue.uasset" SILENT=true
+[2021.10.17-20.17.21:411][713]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Opponent-BlueA808AB1F4DF244247D81F99B59FD6623.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Blue.uasset'
+[2021.10.17-20.17.21:480][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.17-20.17.21:491][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.17-20.17.21:494][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.17-20.17.21:513][713]AssetCheck: New page: Asset Save: Opponent-Blue
+[2021.10.17-20.17.21:513][713]LogContentValidation: Display: Validating SkeletalMesh /Game/Opponent-Blue.Opponent-Blue
+[2021.10.17-20.17.29:416][565]LogContentBrowser: Attempting asset rename: GenericMale2 -> Opponent-Orange
+[2021.10.17-20.17.29:452][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opponent-Orange" FILE="../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Orange.uasset" SILENT=true
+[2021.10.17-20.17.30:066][565]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Opponent-Orange3C315E17465F4F20589251BA70616159.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Orange.uasset'
+[2021.10.17-20.17.30:128][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.17-20.17.30:138][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.17-20.17.30:141][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.17-20.17.30:160][565]AssetCheck: New page: Asset Save: Opponent-Orange
+[2021.10.17-20.17.30:161][565]LogContentValidation: Display: Validating SkeletalMesh /Game/Opponent-Orange.Opponent-Orange
+[2021.10.17-20.17.36:565][144]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Opponent-Blue.Opponent-Blue
+[2021.10.17-20.17.36:568][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.17-20.17.42:733][578]LogMaterial: Display: Material /Game/BBBlue.BBBlue needed to have new flag set bUsedWithSkeletalMesh !
+[2021.10.17-20.17.42:741][578]LogMaterial: Display: Missing cached shadermap for BBBlue in PCD3D_SM5, Default, SM5 (DDC key hash: F42528FA7DBEC3A157631B0494CAF4A6757ECACB), compiling. 
+[2021.10.17-20.17.42:758][578]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 16
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 15
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 14
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 13
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 12
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 11
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 10
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 9
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 8
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 7
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 6
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 5
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 4
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 3
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 2
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 1
+[2021.10.17-20.17.42:799][578]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-20.17.42:807][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.17-20.17.42:807][578]LogShaderCompilers: Display: Total job queries 649, among them cache hits 270 (41.60%)
+[2021.10.17-20.17.42:807][578]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 115 distinct outputs (34.53%)
+[2021.10.17-20.17.42:807][578]LogShaderCompilers: Display: RAM used: 0.61 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2021.10.17-20.17.42:807][578]LogShaderCompilers: Display: ================================================
+[2021.10.17-20.17.58:188][756]Cmd: TRANSACTION UNDO
+[2021.10.17-20.17.58:188][756]LogEditorTransaction: Undo Persona editor: material changed
+[2021.10.17-20.17.58:325][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.17-20.17.59:039][792]Cmd: TRANSACTION UNDO
+[2021.10.17-20.17.59:039][792]LogEditorTransaction: Undo Persona editor: material changed
+[2021.10.17-20.17.59:174][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.17-20.18.04:463][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opponent-Blue" FILE="../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Blue.uasset" SILENT=true
+[2021.10.17-20.18.05:076][244]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Opponent-Blue5D3948064A7A8A9C5D84A8A48C9E38E7.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Blue.uasset'
+[2021.10.17-20.18.05:107][244]AssetCheck: New page: Asset Save: Opponent-Blue
+[2021.10.17-20.18.05:107][244]LogContentValidation: Display: Validating SkeletalMesh /Game/Opponent-Blue.Opponent-Blue
+[2021.10.17-20.18.06:476][378]LogSlate: Window 'Opponent-Blue' being destroyed
+[2021.10.17-20.18.06:479][378]LogSlate: Window 'Opponent-Blue' being destroyed
+[2021.10.17-20.18.06:514][378]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.18.06:514][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.18.17:331][413]LogContentBrowser: Attempting asset rename: Opponent-Orange -> Opponent-Orange
+[2021.10.17-20.18.19:115][571]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Opponent-Orange.Opponent-Orange
+[2021.10.17-20.18.19:118][571]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.10.17-20.18.21:801][744]LogMaterial: Display: Material /Game/BBOrange.BBOrange needed to have new flag set bUsedWithSkeletalMesh !
+[2021.10.17-20.18.21:809][744]LogMaterial: Display: Missing cached shadermap for BBOrange in PCD3D_SM5, Default, SM5 (DDC key hash: 0E4FAC766784480E8D64A126096BCCC02577EC61), compiling. 
+[2021.10.17-20.18.21:826][744]LogShaderCompilers: Display: Submitted 22 shader compile jobs with 'Low' priority
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 22
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 20
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 18
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 16
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 14
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 12
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 10
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 8
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 6
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 4
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 2
+[2021.10.17-20.18.21:853][744]LogShaderCompilers: Display: Started 22 'Local' shader compile jobs with 'Low' priority
+[2021.10.17-20.18.25:796][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Opponent-Orange" FILE="../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Orange.uasset" SILENT=true
+[2021.10.17-20.18.26:415][ 55]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/Opponent-Orange02D80F42458C70395378E48E81648292.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Opponent-Orange.uasset'
+[2021.10.17-20.18.26:457][ 55]AssetCheck: New page: Asset Save: Opponent-Orange
+[2021.10.17-20.18.26:457][ 55]LogContentValidation: Display: Validating SkeletalMesh /Game/Opponent-Orange.Opponent-Orange
+[2021.10.17-20.18.27:830][188]LogSlate: Window 'Opponent-Orange' being destroyed
+[2021.10.17-20.18.27:834][188]LogSlate: Window 'Opponent-Orange' being destroyed
+[2021.10.17-20.18.27:874][188]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.18.27:874][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.18.50:427][813]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2021.10.17-20.18.57:706][637]Cmd: DUPLICATE
+[2021.10.17-20.18.57:706][637]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.19.46:105][151]Cmd: DUPLICATE
+[2021.10.17-20.19.46:105][151]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.19.50:122][623]Cmd: DELETE
+[2021.10.17-20.19.50:122][623]Cmd: ACTOR DELETE
+[2021.10.17-20.19.50:123][623]LogEditorActor: Deleted Actor: Character
+[2021.10.17-20.19.50:130][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.17-20.19.50:135][623]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.10.17-20.19.51:034][730]LogEditorViewport: Clicking on Actor (LMB): Character (Enemy-Blue1)
+[2021.10.17-20.19.55:120][170]Cmd: DUPLICATE
+[2021.10.17-20.19.55:120][170]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.19.58:506][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.20.13:683][337]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.20.13:687][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.20.13:687][337]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:20:13 PM)
+[2021.10.17-20.20.13:724][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.20.13:727][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002600s)
+[2021.10.17-20.20.13:728][337]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.20.13:728][337]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2021.10.17-20.20.13:728][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003779s)
+[2021.10.17-20.20.13:732][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-20.20.13:735][337]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.20.13:735][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.20.13:735][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.20.13:735][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.20.13:735][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.20.13:735][337]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.20.13:738][337]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.20.13:738][337]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.20.13:745][337]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.20.13:745][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.20.13:745][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.20.13:745][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.20.13:746][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.20.13:746][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.20.13:746][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.20.13:746][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.20.13:746][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.20.13:746][337]LogInit: FAudioDevice initialized.
+[2021.10.17-20.20.13:746][337]LogAudio: Display: Audio Device (ID: 50) registered with world 'FPSMap'.
+[2021.10.17-20.20.13:753][337]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.20.13:755][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.20.13
+[2021.10.17-20.20.13:755][337]LogWorld: Bringing up level for play took: 0.001460
+[2021.10.17-20.20.13:755][337]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2021.10.17-20.20.13:757][337]PIE: Server logged in
+[2021.10.17-20.20.13:758][337]PIE: Play in editor total start time 0.071 seconds.
+[2021.10.17-20.20.21:685][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.21:685][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.20.21:685][283]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.20.21:686][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.21:695][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.20.21:708][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.21:711][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.20.21:711][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.21:712][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.21:714][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.21:716][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-20.20.21:783][285]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2021.10.17-20.20.23:673][510]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.20.23:678][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.20.23:678][510]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:20:23 PM)
+[2021.10.17-20.20.23:714][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.20.23:717][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002474s)
+[2021.10.17-20.20.23:717][510]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.20.23:718][510]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2021.10.17-20.20.23:718][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003552s)
+[2021.10.17-20.20.23:721][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-20.20.23:722][510]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2021.10.17-20.20.23:722][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.20.23:722][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.20.23:722][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.20.23:723][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.20.23:723][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.20.23:723][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.20.23:723][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.20.23:723][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.20.23:723][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.20.23:723][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.20.23:723][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.20.23:723][510]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.20.23:725][510]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.20.23:725][510]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.20.23:731][510]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.20.23:731][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.20.23:731][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.20.23:731][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.20.23:732][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.20.23:732][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.20.23:732][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.20.23:732][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.20.23:733][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.20.23:733][510]LogInit: FAudioDevice initialized.
+[2021.10.17-20.20.23:733][510]LogAudio: Display: Audio Device (ID: 51) registered with world 'FPSMap'.
+[2021.10.17-20.20.23:740][510]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.20.23:742][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.20.23
+[2021.10.17-20.20.23:742][510]LogWorld: Bringing up level for play took: 0.001502
+[2021.10.17-20.20.23:742][510]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.10.17-20.20.23:745][510]PIE: Server logged in
+[2021.10.17-20.20.23:745][510]PIE: Play in editor total start time 0.068 seconds.
+[2021.10.17-20.20.31:905][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.31:905][479]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.20.31:905][479]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.20.31:905][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.31:910][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.20.31:923][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.31:926][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.31:926][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.31:927][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.31:930][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-20.20.31:997][481]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.10.17-20.20.34:085][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Blue)
+[2021.10.17-20.20.48:342][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.21.00:190][697]LogEditorViewport: Clicking on Actor (LMB): Character (Enemy-Blue3)
+[2021.10.17-20.21.19:392][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Blue)
+[2021.10.17-20.21.23:517][310]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stands2)
+[2021.10.17-20.21.24:543][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Orange)
+[2021.10.17-20.21.45:609][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.22.42:414][261]Cmd: DUPLICATE
+[2021.10.17-20.22.42:414][261]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.22.49:398][ 42]Cmd: DUPLICATE
+[2021.10.17-20.22.49:398][ 42]Cmd: ACTOR DUPLICATE
+[2021.10.17-20.23.04:325][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.23.36:459][627]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.23.36:464][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.23.36:464][627]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:23:36 PM)
+[2021.10.17-20.23.36:503][627]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.23.36:507][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003096s)
+[2021.10.17-20.23.36:508][627]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.23.36:508][627]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.10.17-20.23.36:508][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.004678s)
+[2021.10.17-20.23.36:512][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.17-20.23.36:517][627]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.10.17-20.23.36:517][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.23.36:518][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.23.36:518][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.23.36:518][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.23.36:518][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.23.36:518][627]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.23.36:520][627]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.23.36:520][627]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.23.36:526][627]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.23.36:527][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.23.36:527][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.23.36:527][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.23.36:527][627]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.23.36:527][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.23.36:527][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.23.36:528][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.23.36:528][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.23.36:528][627]LogInit: FAudioDevice initialized.
+[2021.10.17-20.23.36:528][627]LogAudio: Display: Audio Device (ID: 52) registered with world 'FPSMap'.
+[2021.10.17-20.23.36:537][627]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.23.36:540][627]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.23.36
+[2021.10.17-20.23.36:540][627]LogWorld: Bringing up level for play took: 0.002653
+[2021.10.17-20.23.36:541][627]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.10.17-20.23.36:543][627]PIE: Server logged in
+[2021.10.17-20.23.36:544][627]PIE: Play in editor total start time 0.08 seconds.
+[2021.10.17-20.23.46:985][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.23.46:985][872]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.23.46:985][872]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.23.46:985][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.23.46:994][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.23.47:000][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.23.47:003][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.23.47:003][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.23.47:005][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.23.47:007][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.23.47:009][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.10.17-20.23.47:075][874]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.10.17-20.24.00:387][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.24.01:479][583]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.24.01:484][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.24.01:484][583]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:24:01 PM)
+[2021.10.17-20.24.01:484][583]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.24.01:487][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002677s)
+[2021.10.17-20.24.01:487][583]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.24.01:488][583]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2021.10.17-20.24.01:488][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003682s)
+[2021.10.17-20.24.01:491][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.17-20.24.01:493][583]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.24.01:493][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.24.01:493][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.24.01:493][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.24.01:493][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.24.01:493][583]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.24.01:495][583]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.24.01:495][583]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.24.01:502][583]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.24.01:502][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.24.01:502][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.24.01:502][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.24.01:502][583]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.24.01:502][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.24.01:502][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.24.01:504][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.24.01:504][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.24.01:504][583]LogInit: FAudioDevice initialized.
+[2021.10.17-20.24.01:504][583]LogAudio: Display: Audio Device (ID: 53) registered with world 'FPSMap'.
+[2021.10.17-20.24.01:512][583]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.24.01:514][583]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.24.01
+[2021.10.17-20.24.01:515][583]LogWorld: Bringing up level for play took: 0.002479
+[2021.10.17-20.24.01:515][583]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.10.17-20.24.01:517][583]PIE: Server logged in
+[2021.10.17-20.24.01:518][583]PIE: Play in editor total start time 0.035 seconds.
+[2021.10.17-20.24.16:525][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.24.16:525][377]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.24.16:525][377]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.24.16:525][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.24.16:533][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.24.16:546][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.24.16:549][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.24.16:549][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.24.16:550][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.24.16:554][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.17-20.24.16:617][379]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.10.17-20.24.28:543][479]LogHotReload: New module detected: UE4Editor-FPSProject-0023.dll
+[2021.10.17-20.24.29:564][483]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.17-20.24.29:625][483]LogHotReload: Re-instancing FPSProjectile after hot-reload.
+[2021.10.17-20.24.29:630][483]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FPSProject' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.10.17-20.24.29:631][483]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2021.10.17-20.24.29:665][483]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3827 classes and 932 folders.
+[2021.10.17-20.24.29:668][483]Display: HotReload took  0.1s.
+[2021.10.17-20.24.31:987][648]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.24.31:992][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.24.31:992][648]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:24:31 PM)
+[2021.10.17-20.24.32:033][648]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.24.32:036][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003029s)
+[2021.10.17-20.24.32:037][648]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.24.32:038][648]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2021.10.17-20.24.32:038][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.004364s)
+[2021.10.17-20.24.32:042][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.17-20.24.32:044][648]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.24.32:044][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.24.32:044][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.24.32:045][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.24.32:045][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.24.32:045][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.24.32:045][648]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.24.32:047][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.24.32:047][648]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.24.32:053][648]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.24.32:053][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.24.32:053][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.24.32:053][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.24.32:054][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.24.32:054][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.24.32:054][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.24.32:055][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.24.32:055][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.24.32:055][648]LogInit: FAudioDevice initialized.
+[2021.10.17-20.24.32:055][648]LogAudio: Display: Audio Device (ID: 54) registered with world 'FPSMap'.
+[2021.10.17-20.24.32:064][648]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.24.32:066][648]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.24.32
+[2021.10.17-20.24.32:067][648]LogWorld: Bringing up level for play took: 0.002269
+[2021.10.17-20.24.32:067][648]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.10.17-20.24.32:070][648]PIE: Server logged in
+[2021.10.17-20.24.32:071][648]PIE: Play in editor total start time 0.08 seconds.
+[2021.10.17-20.24.50:364][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.24.50:364][838]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.24.50:364][838]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.24.50:365][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.24.50:373][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.24.50:385][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.24.50:389][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.24.50:389][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.24.50:390][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.24.50:392][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.24.50:393][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.17-20.24.50:458][840]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.10.17-20.25.00:832][950]LogHotReload: New module detected: UE4Editor-FPSProject-0024.dll
+[2021.10.17-20.25.01:182][952]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.17-20.25.01:231][952]LogHotReload: Re-instancing FPSProjectile after hot-reload.
+[2021.10.17-20.25.01:235][952]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FPSProject' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.10.17-20.25.01:237][952]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2021.10.17-20.25.01:277][952]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3827 classes and 932 folders.
+[2021.10.17-20.25.01:280][952]Display: HotReload took  0.1s.
+[2021.10.17-20.25.02:921][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.25.02:925][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.25.02:926][ 47]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:25:02 PM)
+[2021.10.17-20.25.02:964][ 47]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.25.02:967][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003003s)
+[2021.10.17-20.25.02:968][ 47]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.25.02:968][ 47]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2021.10.17-20.25.02:968][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.004210s)
+[2021.10.17-20.25.02:972][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.17-20.25.02:974][ 47]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.25.02:974][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.25.02:974][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.25.02:974][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.25.02:974][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.25.02:974][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.25.02:976][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.25.02:976][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.25.02:982][ 47]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.25.02:982][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.25.02:983][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.25.02:983][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.25.02:983][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.25.02:983][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.25.02:983][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.25.02:984][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.25.02:984][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.25.02:984][ 47]LogInit: FAudioDevice initialized.
+[2021.10.17-20.25.02:984][ 47]LogAudio: Display: Audio Device (ID: 55) registered with world 'FPSMap'.
+[2021.10.17-20.25.02:988][ 47]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.25.02:990][ 47]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.25.02
+[2021.10.17-20.25.02:991][ 47]LogWorld: Bringing up level for play took: 0.002280
+[2021.10.17-20.25.02:991][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.10.17-20.25.02:993][ 47]PIE: Server logged in
+[2021.10.17-20.25.02:994][ 47]PIE: Play in editor total start time 0.069 seconds.
+[2021.10.17-20.25.37:865][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.25.37:865][227]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.25.37:865][227]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.25.37:865][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.25.37:877][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.25.37:889][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.25.37:893][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.25.37:893][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.25.37:894][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.25.37:896][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.25.37:897][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.17-20.25.37:961][229]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.10.17-20.25.38:636][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Blue)
+[2021.10.17-20.25.47:231][301]Cmd: MODE ROTGRID=0
+[2021.10.17-20.25.55:538][274]Cmd: MODE ROTGRID=1
+[2021.10.17-20.26.01:977][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls1)
+[2021.10.17-20.26.03:598][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Blue)
+[2021.10.17-20.26.19:882][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.26.19:886][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.26.19:886][ 78]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:26:19 PM)
+[2021.10.17-20.26.19:914][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.26.19:917][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002814s)
+[2021.10.17-20.26.19:917][ 78]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.26.19:918][ 78]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2021.10.17-20.26.19:918][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003889s)
+[2021.10.17-20.26.19:921][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.17-20.26.19:925][ 78]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.26.19:925][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.26.19:925][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.26.19:925][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.26.19:925][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.26.19:925][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.26.19:927][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.26.19:927][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.26.19:934][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.26.19:935][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.26.19:935][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.26.19:935][ 78]LogInit: FAudioDevice initialized.
+[2021.10.17-20.26.19:935][ 78]LogAudio: Display: Audio Device (ID: 56) registered with world 'FPSMap'.
+[2021.10.17-20.26.19:942][ 78]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.26.19:944][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.26.19
+[2021.10.17-20.26.19:944][ 78]LogWorld: Bringing up level for play took: 0.002292
+[2021.10.17-20.26.19:944][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.10.17-20.26.19:947][ 78]PIE: Server logged in
+[2021.10.17-20.26.19:948][ 78]PIE: Play in editor total start time 0.062 seconds.
+[2021.10.17-20.26.47:485][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.26.47:485][376]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.26.47:485][376]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.26.47:485][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.26.47:495][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.26.47:508][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.26.47:511][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.26.47:512][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.26.47:513][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.26.47:517][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-20.26.47:547][377]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.10.17-20.26.59:215][482]LogHotReload: New module detected: UE4Editor-FPSProject-0025.dll
+[2021.10.17-20.26.59:896][485]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.17-20.26.59:952][485]LogHotReload: Re-instancing FPSProjectile after hot-reload.
+[2021.10.17-20.26.59:956][485]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FPSProject' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.10.17-20.26.59:958][485]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2021.10.17-20.26.59:992][485]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3827 classes and 932 folders.
+[2021.10.17-20.26.59:994][485]Display: HotReload took  0.1s.
+[2021.10.17-20.27.01:798][582]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.27.01:803][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.27.01:803][582]PIE: New page: PIE session: FPSMap (Oct 17, 2021, 12:27:01 PM)
+[2021.10.17-20.27.01:834][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.27.01:837][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002828s)
+[2021.10.17-20.27.01:838][582]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.17-20.27.01:838][582]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2021.10.17-20.27.01:838][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.004283s)
+[2021.10.17-20.27.01:842][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.10.17-20.27.01:843][582]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.10.17-20.27.01:843][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.27.01:843][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.27.01:843][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.27.01:844][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.27.01:844][582]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.27.01:844][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.27.01:844][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.27.01:844][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.27.01:844][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.17-20.27.01:844][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.17-20.27.01:844][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.17-20.27.01:844][582]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.27.01:846][582]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.27.01:846][582]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.27.01:852][582]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.17-20.27.01:852][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.27.01:852][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.27.01:852][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.27.01:853][582]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.27.01:853][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.27.01:853][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.27.01:854][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.27.01:854][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.27.01:854][582]LogInit: FAudioDevice initialized.
+[2021.10.17-20.27.01:854][582]LogAudio: Display: Audio Device (ID: 57) registered with world 'FPSMap'.
+[2021.10.17-20.27.01:861][582]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.17-20.27.01:863][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.17-16.27.01
+[2021.10.17-20.27.01:864][582]LogWorld: Bringing up level for play took: 0.002237
+[2021.10.17-20.27.01:864][582]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.10.17-20.27.01:866][582]PIE: Server logged in
+[2021.10.17-20.27.01:867][582]PIE: Play in editor total start time 0.065 seconds.
+[2021.10.17-20.27.09:994][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.27.09:994][552]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.17-20.27.09:994][552]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.27.09:995][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.27.10:006][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.27.10:018][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.27.10:022][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-20.27.10:022][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.27.10:023][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.27.10:025][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.27.10:026][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.17-20.27.10:090][554]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.10.17-20.27.10:642][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basket-Blue)
+[2021.10.17-20.28.05:532][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.10.17-20.28.30:822][784]LogHotReload: New module detected: UE4Editor-FPSProject-0026.dll
+[2021.10.17-20.28.31:501][787]LogHotReload: Starting Hot-Reload from IDE
+[2021.10.17-20.28.31:574][787]LogHotReload: Re-instancing FPSProjectile after hot-reload.
+[2021.10.17-20.28.31:579][787]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'FPSProject' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.10.17-20.28.31:581][787]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2021.10.17-20.28.31:615][787]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3827 classes and 932 folders.
+[2021.10.17-20.28.31:617][787]Display: HotReload took  0.1s.
+[2021.10.17-20.28.35:361][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.17-20.28.35:377][ 86]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap155661184F26F596BFC0C1BCA1CA100F.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Maps/FPSMap.umap'
+[2021.10.17-20.28.35:425][ 86]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Saved/FPSMap_BuiltData8B8E14654497DB50F9BFF0A9D98FBC85.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook Classes/CSE 381 Fall 2021/CSE-381_HW2/FPSProject/Content/Maps/FPSMap_BuiltData.uasset'
+[2021.10.17-20.28.35:456][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.28.35:456][ 86]LogContentValidation: Display: Validating World /Game/Maps/FPSMap.FPSMap
+[2021.10.17-20.28.35:456][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FPSMap_BuiltData.FPSMap_BuiltData

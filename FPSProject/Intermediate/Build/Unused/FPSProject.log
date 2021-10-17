@@ -3,10 +3,10 @@
   Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 24 processes...
     [1/4] FPSProjectile.cpp
-    [2/4] UE4Editor-FPSProject-0021.lib
-       Creating library C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0021.lib and object C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0021.exp
-    [3/4] UE4Editor-FPSProject-0021.dll
-       Creating library C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0021.suppressed.lib and object C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0021.suppressed.exp
+    [2/4] UE4Editor-FPSProject-0026.lib
+       Creating library C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0026.lib and object C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0026.exp
+    [3/4] UE4Editor-FPSProject-0026.dll
+       Creating library C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0026.suppressed.lib and object C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0026.suppressed.exp
     [4/4] FPSProjectEditor.target
-  Total time in Parallel executor: 1.17 seconds
-  Total execution time: 1.83 seconds
+  Total time in Parallel executor: 1.34 seconds
+  Total execution time: 2.02 seconds
