@@ -1,0 +1,2 @@
+D:\CSE_381\FPS tutorial\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h
+D:\CSE_381\FPS tutorial\FPSProject\Source\FPSProject\FPSProject.h
