@@ -31,12 +31,12 @@ AFPSProjectile::AFPSProjectile()
 		// Use this component to drive this projectile's movement.
 		ProjectileMovementComponent = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("ProjectileMovementComponent"));
 		ProjectileMovementComponent->SetUpdatedComponent(CollisionComponent);
-		ProjectileMovementComponent->InitialSpeed = 3000.0f;
-		ProjectileMovementComponent->MaxSpeed = 3000.0f;
+		ProjectileMovementComponent->InitialSpeed = 2000.0f;
+		ProjectileMovementComponent->MaxSpeed = 2000.0f;
 		ProjectileMovementComponent->bRotationFollowsVelocity = true;
 		ProjectileMovementComponent->bShouldBounce = true;
-		ProjectileMovementComponent->Bounciness = 0.3f;
-		ProjectileMovementComponent->ProjectileGravityScale = 0.0f;
+		ProjectileMovementComponent->Bounciness = 1.0f;
+		ProjectileMovementComponent->ProjectileGravityScale = 2.5f;
 	}
 	if (!ProjectileMeshComponent)
 	{
@@ -49,7 +49,7 @@ AFPSProjectile::AFPSProjectile()
 
 	}
 
-	static ConstructorHelpers::FObjectFinder<UMaterial>Material(TEXT("'/Game/SphereMaterial.SphereMaterial'"));
+	static ConstructorHelpers::FObjectFinder<UMaterial>Material(TEXT("'/Game/BBOrange.BBOrange'"));
 	if (Material.Succeeded())
 	{
 		ProjectileMaterialInstance = UMaterialInstanceDynamic::Create(Material.Object, ProjectileMeshComponent);
@@ -91,5 +91,5 @@ void AFPSProjectile::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor
 		OtherComponent->AddImpulseAtLocation(ProjectileMovementComponent->Velocity * 100.0f, Hit.ImpactPoint);
 	}
 
-	Destroy();
+	//Destroy();
 }

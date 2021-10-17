@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "FPSProject",
-			"Path": "D:\\CSE_381\\FPS tutorial\\FPSProject\\Source\\FPSProject.Target.cs",
+			"Path": "C:\\Users\\Tyler\\Documents\\Stony Brook Classes\\CSE 381 Fall 2021\\CSE-381_HW2\\FPSProject\\Source\\FPSProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "FPSProjectEditor",
-			"Path": "D:\\CSE_381\\FPS tutorial\\FPSProject\\Source\\FPSProjectEditor.Target.cs",
+			"Path": "C:\\Users\\Tyler\\Documents\\Stony Brook Classes\\CSE 381 Fall 2021\\CSE-381_HW2\\FPSProject\\Source\\FPSProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
