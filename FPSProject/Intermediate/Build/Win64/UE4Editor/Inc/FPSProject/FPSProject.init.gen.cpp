@@ -21,8 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeFPSProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
+<<<<<<< Updated upstream
 				0xA0188493,
 				0x5F608682,
+=======
+				0xCD3B9DDC,
+				0x8EF6D878,
+>>>>>>> Stashed changes
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

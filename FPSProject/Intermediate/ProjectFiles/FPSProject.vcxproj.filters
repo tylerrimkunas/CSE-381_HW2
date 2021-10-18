@@ -4,7 +4,11 @@
     <None Include="..\..\FPSProject.uproject" />
     <Filter Include="Source">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <UniqueIdentifier>{5E783199-DF7B-4AA8-975E-DCD26B38F176}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{0D38175A-0567-48F3-A920-40AB1C4CF501}</UniqueIdentifier>
+>>>>>>> Stashed changes
 =======
       <UniqueIdentifier>{0D38175A-0567-48F3-A920-40AB1C4CF501}</UniqueIdentifier>
 >>>>>>> Stashed changes
@@ -17,7 +21,11 @@
     </None>
     <Filter Include="Config">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <UniqueIdentifier>{5ABA3253-CAF9-4FD4-B507-2C156DF4443C}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{BC87946B-B06A-4E52-953E-3ABA331B1EE6}</UniqueIdentifier>
+>>>>>>> Stashed changes
 =======
       <UniqueIdentifier>{BC87946B-B06A-4E52-953E-3ABA331B1EE6}</UniqueIdentifier>
 >>>>>>> Stashed changes
@@ -36,7 +44,11 @@
     </None>
     <Filter Include="Source\FPSProject">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <UniqueIdentifier>{822CCF0B-FBC7-4767-B040-04963404B2CC}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{C47B29C1-EC67-4522-ACF7-A1E1C5B3648C}</UniqueIdentifier>
+>>>>>>> Stashed changes
 =======
       <UniqueIdentifier>{C47B29C1-EC67-4522-ACF7-A1E1C5B3648C}</UniqueIdentifier>
 >>>>>>> Stashed changes
