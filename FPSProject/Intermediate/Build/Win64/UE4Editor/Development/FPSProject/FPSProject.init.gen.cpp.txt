@@ -1,0 +1,3 @@
+C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

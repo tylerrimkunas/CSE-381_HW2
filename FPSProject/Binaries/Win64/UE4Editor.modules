@@ -2,6 +2,10 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
+<<<<<<< Updated upstream
 		"FPSProject": "UE4Editor-FPSProject.dll"
+=======
+		"FPSProject": "UE4Editor-FPSProject-5393.dll"
+>>>>>>> Stashed changes
 	}
 }

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\CSE_381\\CSE-381_HW2\\FPSProject\\Source\\FPSProject\\FPSProject.Build.cs",
-		"D:\\CSE_381\\CSE-381_HW2\\FPSProject\\Source\\FPSProject.Target.cs",
-		"D:\\CSE_381\\CSE-381_HW2\\FPSProject\\Source\\FPSProjectEditor.Target.cs"
+		"C:\\Users\\Tyler\\Documents\\Stony Brook Classes\\CSE 381 Fall 2021\\CSE-381_HW2\\FPSProject\\Source\\FPSProject\\FPSProject.Build.cs",
+		"C:\\Users\\Tyler\\Documents\\Stony Brook Classes\\CSE 381 Fall 2021\\CSE-381_HW2\\FPSProject\\Source\\FPSProject.Target.cs",
+		"C:\\Users\\Tyler\\Documents\\Stony Brook Classes\\CSE 381 Fall 2021\\CSE-381_HW2\\FPSProject\\Source\\FPSProjectEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.1"
 }

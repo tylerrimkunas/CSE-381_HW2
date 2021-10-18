@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject
-/I D:\CSE_381\CSE-381_HW2\FPSProject\Source
+/I "C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject"
+/I "C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\FPSProjectGameModeBase.gen.cpp"
-/FI"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h"
-/Fo"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.gen.cpp.obj"
+/FI"C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\FPSProjectGameModeBase.gen.cpp"
+/FI"C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h"
+/Fo"C:\Users\Tyler\Documents\Stony Brook Classes\CSE 381 Fall 2021\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\FPSProjectGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
