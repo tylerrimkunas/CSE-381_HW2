@@ -56,7 +56,7 @@ AFPSProjectile::AFPSProjectile()
 	ProjectileMeshComponent->SetupAttachment(RootComponent);
 
 	// Delete the projectile after 3 seconds.
-	InitialLifeSpan = 3.0f;
+	//InitialLifeSpan = 3.0f;
 }
 
 // Called when the game starts or when spawned
