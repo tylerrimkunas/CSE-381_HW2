@@ -1,0 +1,1311 @@
+﻿Log file open, 10/22/21 15:41:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.707943
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.22-19.41.14:476][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.22-19.41.14:477][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.22-19.41.14:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:478][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.22-19.41.14:511][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.22-19.41.14:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.22-19.41.14:513][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.22-19.41.14:514][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.22-19.41.14:515][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.22-19.41.14:515][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.22-19.41.14:515][  0]LogHAL: Display: Platform has ~ 8 GB [8461193216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.22-19.41.14:515][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.22-19.41.14:515][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.22-19.41.14:515][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.22-19.41.14:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.22-19.41.14:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.22-19.41.14:518][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.22-19.41.14:519][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.22-19.41.14:519][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.22-19.41.14:520][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.22-19.41.14:520][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.22-19.41.14:520][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.22-19.41.14:521][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.22-19.41.14:521][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.22-19.41.14:521][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.22-19.41.14:521][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Engine.ini]
+[2021.10.22-19.41.14:521][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Config/Windows/Editor.ini]
+[2021.10.22-19.41.14:522][  0]LogInit: Computer: LAPTOP-1P67PNGA
+[2021.10.22-19.41.14:522][  0]LogInit: User: Tyler
+[2021.10.22-19.41.14:522][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.22-19.41.14:522][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.22-19.41.14:522][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.10.22-19.41.14:522][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.22-19.41.14:522][  0]LogMemory: Process Physical Memory: 141.18 MB used, 141.19 MB peak
+[2021.10.22-19.41.14:522][  0]LogMemory: Process Virtual Memory: 114.57 MB used, 114.57 MB peak
+[2021.10.22-19.41.14:522][  0]LogMemory: Physical Memory: 6040.88 MB used,  2028.34 MB free, 8069.22 MB total
+[2021.10.22-19.41.14:522][  0]LogMemory: Virtual Memory: 134212632.00 MB used,  5099.74 MB free, 134217728.00 MB total
+[2021.10.22-19.41.14:540][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.22-19.41.14:614][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.22-19.41.14:615][  0]LogInit: Using OS detected language (en-US).
+[2021.10.22-19.41.14:615][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.22-19.41.14:625][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.22-19.41.15:117][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.22-19.41.15:147][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.22-19.41.15:174][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.22-19.41.15:174][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.22-19.41.15:643][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.10.22-19.41.15:834][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.22-19.41.15:834][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.22-19.41.15:834][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.22-19.41.15:834][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.22-19.41.16:078][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2021.10.22-19.41.16:078][  0]LogD3D11RHI:       1983/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.10.22-19.41.16:107][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.10.22-19.41.16:107][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.10.22-19.41.16:114][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.22-19.41.16:114][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.22-19.41.16:114][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.22-19.41.16:258][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.22-19.41.16:259][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.22-19.41.16:259][  0]LogWindows: EnumDisplayDevices:
+[2021.10.22-19.41.16:259][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.10.22-19.41.16:261][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.10.22-19.41.16:262][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.10.22-19.41.16:263][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.10.22-19.41.16:263][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2021.10.22-19.41.16:263][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.10.22-19.41.16:263][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.10.22-19.41.16:263][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2021.10.22-19.41.16:544][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.22-19.41.16:600][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.22-19.41.16:600][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.22-19.41.16:649][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.22-19.41.16:831][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.22-19.41.18:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.22-19.41.18:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.22-19.41.18:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.22-19.41.18:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.22-19.41.18:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.22-19.41.18:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.22-19.41.18:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.22-19.41.18:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.22-19.41.18:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.22-19.41.18:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.22-19.41.18:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.22-19.41.18:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.22-19.41.18:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.22-19.41.18:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.22-19.41.18:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.22-19.41.18:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.22-19.41.18:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.22-19.41.18:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.22-19.41.18:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.22-19.41.18:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.22-19.41.18:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.22-19.41.19:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.22-19.41.19:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.22-19.41.19:015][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.22-19.41.19:037][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.22-19.41.19:127][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.22-19.41.19:213][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.22-19.41.19:213][  0]LogShaderCompilers: Guid format shader working directory is -66 characters bigger than the processId version (../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Intermediate/Shaders/WorkingDirectory/8296/).
+[2021.10.22-19.41.19:213][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyler/AppData/Local/Temp/UnrealShaderWorkingDir/3B2A29BC4906EE3BC36456B072221B04/'.
+[2021.10.22-19.41.19:214][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.22-19.41.19:214][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.22-19.41.19:214][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.22-19.41.21:395][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.22-19.41.21:528][  0]LogDerivedDataCache: Loaded boot cache 0.13s 95MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.22-19.41.21:528][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyler/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.10.22-19.41.21:537][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.22-19.41.21:537][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.22-19.41.21:537][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.22-19.41.21:537][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.22-19.41.21:585][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.22-19.41.21:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.22-19.41.21:586][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.22-19.41.21:629][  0]LogDerivedDataCache: Speed tests for C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.10.22-19.41.21:629][  0]LogDerivedDataCache: Display: Performance to C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=66.25MBs, RandomWriteSpeed=34.32MBs. Assigned SpeedClass 'Local'
+[2021.10.22-19.41.21:631][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.22-19.41.21:632][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.22-19.41.21:632][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.22-19.41.21:795][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.22-19.41.21:796][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.22-19.41.21:863][  0]LogAssetRegistry: FAssetRegistry took 0.0073 seconds to start up
+[2021.10.22-19.41.22:467][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.22-19.41.22:467][  0]LogInit: Active device profile: [00000209C8C2E900][00000209BBA25B40 49] Windows
+[2021.10.22-19.41.22:467][  0]LogInit: Profiles: [00000209C8C2E900][00000209BBA25B40 49] Windows, [00000209C8BF1800][00000209BC30E280 49] WindowsNoEditor, [00000209C8C2D800][00000209BC312540 49] WindowsServer, [00000209C8BF0C00][00000209BC316800 49] WindowsClient, [00000209C8C2CB00][00000209BC31AAC0 49] IOS, [00000209C8BF1C00][00000209BC31ED80 49] iPadAir, [00000209C8C2DB00][00000209BC323040 49] iPadAir2, [00000209C8B97400][00000209B8FC7500 49] IPadPro, [00000209C8B97500][00000209BC30B540 49] iPadAir3, [00000209C8C2CE00][00000209B8FC3800 49] iPadAir4, [00000209C8B95D00][00000209B8FBFAC0 49] iPadMini2, [00000209C8C2DA00][00000209B8FCA200 49] iPadMini3, [00000209C8B96000][00000209B8FCE4C0 49] iPadMini4, [00000209C8C2E000][00000209B8FD2780 49] iPadMini5, [00000209C8BCAD00][00000209C9110CC0 49] iPhone6, [00000209C8BCAE00][00000209B8FD6D00 49] iPodTouch6, [00000209C8B94C00][00000209C9119240 49] iPhone7, [00000209C8B94A00][00000209B8FDF280 49] iPodTouch7, [00000209C8BC9D00][00000209B8FBB500 49] iPhone5S, [00000209C8B94B00][00000209B8FE3780 49] iPhone6Plus, [00000209C8BCA200][00000209C9115A40 49] iPhone6S, [00000209C8B95900][00000209C9120180 49] iPhone6SPlus, [00000209C8BCA000][00000209C917C440 49] iPhone7Plus, [00000209C8B96200][00000209C920A700 49] iPhoneSE, [00000209C8BC9B00][00000209C92C09C0 49] iPhone8, [00000209C8B97800][00000209C92C4C80 49] iPhone8Plus, [00000209C8BCA500][00000209C9372F40 49] iPhoneX, [00000209C8B96400][00000209C9377200 49] iPhoneXS, [00000209C8BCA400][00000209BF9E14C0 49] iPhoneXSMax, [00000209C8B94400][00000209B8FDB740 49] iPhoneXR, [00000209C8BCB500][00000209C95079C0 49] iPhone11, [00000209C8B94500][00000209C700E100 49] iPhone11Pro, [00000209C8BC9100][00000209C70123C0 49] iPhone11ProMax, [00000209C8B96D00][00000209C701A680 49] iPhoneSE2, [00000209C8BCBD00][00000209BB9EE940 49] iPhone12Mini, [00000209C8B94D00][00000209BBA02C00 49] iPhone12, [00000209C8BC8F00][00000209BFA04EC0 49] iPhone12Pro, [00000209C8B97100][00000209BFA43180 49] iPhone12ProMax, [00000209C8BC8B00][00000209BFA47440 49] iPadPro105, [00000209C8B94900][00000209BFA6B700 49] iPadPro129, [00000209C8BCB100][00000209C950B980 49] iPadPro97, [00000209C8B95500][00000209C91F20C0 49] iPadPro2_129, [00000209C8BC9000][00000209C91F6380 49] iPad5, [00000209C8B95B00][00000209C91FA640 49] iPad6, [00000209C8BC8500][00000209C91FE900 49] iPad7, [00000209C8B94E00][00000209C9202BC0 49] iPad8, [00000209C8BCB200][00000209C9206E80 49] iPadPro11, [00000209C8B96900][00000209C935F140 49] iPadPro2_11, [00000209C8BCA900][00000209BFA7B400 49] iPadPro3_129, [00000209C8C78700][00000209CA0FF6C0 49] iPadPro4_129, [00000209C8BF3500][00000209C91EF940 49] AppleTV, [00000209C8C79300][00000209CA10FBC0 49] AppleTV4K, [00000209C8BF1A00][00000209CA116300 49] TVOS, [00000209C8C79500][00000209CA11E5C0 49] Mac, [00000209C8BF0E00][00000209B7936880 49] MacClient, [00000209C8C78800][00000209CA122B40 49] MacNoEditor, [00000209C8BF2200][00000209CA126E00 49] MacServer, [00000209C8C78300][00000209CA12B0C0 49] Linux, [00000209C8BF1100][00000209CA12F380 49] LinuxAArch64, [00000209C8C79200][00000209CA133640 49] LinuxNoEditor, [00000209C8BF2800][00000209CA137900 49] LinuxAArch64NoEditor, [00000209C8BC9700][00000209CA113B80 49] LinuxClient, [00000209C8BF3800][00000209CA13A280 49] LinuxAArch64Client, [00000209C8BCAF00][00000209C9FD4540 49] LinuxServer, [00000209C8BF0D00][00000209C949C800 49] LinuxAArch64Server, [00000209C8B97A00][00000209C94A0AC0 49] Android, [00000209C8BF3700][00000209C94A4D80 49] Android_Low, [00000209C8B96500][00000209C94A9040 49] Android_Mid, [00000209C8BF0600][00000209C94ED300 49] Android_High, [00000209C8B95200][00000209C94F15C0 49] Android_Default, [00000209C8BF2500][00000209C94F9880 49] Android_Adreno4xx, [00000209C8B95400][00000209C94FDB40 49] Android_Adreno5xx_Low, [00000209C8BF1F00][00000209C9FD0240 49] Android_Adreno5xx, [00000209C8B94F00][00000209C91804C0 49] Android_Adreno6xx, [00000209C8BF1B00][00000209C9188780 49] Android_Adreno6xx_Vulkan, [00000209C8B95C00][00000209C918CA40 49] Android_Mali_T6xx, [00000209C8BF1300][00000209C94F4D00 49] Android_Mali_T7xx, [00000209C8B94800][00000209C94ACFC0 49] Android_Mali_T8xx, [00000209C8BF2100][00000209C9333280 49] Android_Mali_G71, [00000209C8B95A00][00000209C9337540 49] Android_Mali_G72, [00000209C8BF1000][00000209C933B800 49] Android_Mali_G72_Vulkan, [00000209C8B96C00][00000209C936FAC0 49] Android_Mali_G76, [00000209C8BF3200][00000209C936A200 49] Android_Mali_G76_Vulkan, [00000209C8B97200][00000209C9184480 49] Android_Mali_G77, [00000209C8BF3C00][00000209C9366700 49] Android_Mali_G77_Vulkan, [00000209C8B96600][00000209C70169C0 49] Android_Mali_G78, [00000209C8BF3B00][00000209C701EC80 49] Android_Mali_G78_Vulkan, [00000209C8B94700][00000209C933EF40 49] Android_Mali_G710, [00000209C8BF0700][00000209C9343200 49] Android_Mali_G710_Vulkan, [00000209C8B97900][00000209C93474C0 49] Android_Vulkan_SM5, [00000209C8BF0100][00000209C934B780 49] Android_PowerVR_G6xxx, [00000209C8B97700][00000209C934FA40 49] Android_PowerVR_GT7xxx, [00000209C8BF2700][00000209C9352180 49] Android_PowerVR_GE8xxx, [00000209C8B96E00][00000209C9356440 49] Android_PowerVR_GM9xxx, [00000209C8BF2900][00000209C93626C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000209C8B94600][00000209C935A940 49] Android_TegraK1, [00000209C8BF0200][00000209BB9CAC00 49] Android_Unknown_Vulkan, [00000209C8B96300][00000209BB9CEEC0 49] Lumin, [00000209C8BF2300][00000209BB9D3180 49] Lumin_Desktop, [00000209C8B95700][00000209BB9D7440 49] HoloLens, 
+[2021.10.22-19.41.22:872][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.22-19.41.22:872][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.22-19.41.22:872][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.22-19.41.22:872][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.22-19.41.22:872][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.22-19.41.22:906][  0]LogNetVersion: FPSProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 551633527)
+[2021.10.22-19.41.24:017][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.22-19.41.24:182][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.22-19.41.24:200][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.10.22-19.41.24:200][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.10.22-19.41.24:200][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.22-19.41.24:646][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 057392E94C62FE4CD01F19A91C661A7F | Instance: 86A4441341C3F498836B36916303742E (LAPTOP-1P67PNGA-8296).
+[2021.10.22-19.41.24:691][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.22-19.41.24:691][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.22-19.41.25:242][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.22-19.41.25:243][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.22-19.41.25:243][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.22-19.41.25:243][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.22-19.41.25:243][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.22-19.41.25:243][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.22-19.41.25:243][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.22-19.41.25:243][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.22-19.41.25:243][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.22-19.41.25:243][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.22-19.41.25:391][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.22-19.41.25:402][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.22-19.41.25:438][  0]LogPython: Using Python 3.7.7
+[2021.10.22-19.41.27:599][  0]SourceControl: Source control is disabled
+[2021.10.22-19.41.27:599][  0]SourceControl: Source control is disabled
+[2021.10.22-19.41.27:610][  0]SourceControl: Source control is disabled
+[2021.10.22-19.41.27:621][  0]SourceControl: Source control is disabled
+[2021.10.22-19.41.27:655][  0]SourceControl: Source control is disabled
+[2021.10.22-19.41.27:676][  0]LogUProjectInfo: Found projects:
+[2021.10.22-19.41.28:363][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.22-19.41.28:428][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.22-19.41.28:497][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.22-19.41.28:497][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.22-19.41.28:884][  0]LogCollectionManager: Loaded 0 collections in 0.004733 seconds
+[2021.10.22-19.41.28:945][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Collections/' took 0.00s
+[2021.10.22-19.41.28:945][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Developers/Tyler/Collections/' took 0.00s
+[2021.10.22-19.41.28:945][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Collections/' took 0.00s
+[2021.10.22-19.41.28:945][  0]LogOcInput: OculusInput pre-init called
+[2021.10.22-19.41.29:399][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.22-19.41.29:399][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.22-19.41.29:399][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.22-19.41.29:399][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.22-19.41.29:399][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.22-19.41.29:400][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.22-19.41.29:400][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.22-19.41.29:400][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.22-19.41.29:400][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.22-19.41.29:400][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.22-19.41.29:400][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.22-19.41.29:400][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.22-19.41.29:400][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.22-19.41.29:400][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.22-19.41.29:483][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.22-19.41.29:483][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.22-19.41.29:483][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.22-19.41.29:483][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.22-19.41.29:635][  0]LogEngine: Initializing Engine...
+[2021.10.22-19.41.29:784][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.10.22-19.41.29:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.22-19.41.29:787][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.22-19.41.29:791][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.22-19.41.30:198][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.22-19.41.30:224][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.22-19.41.30:265][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.22-19.41.30:275][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.10.22-19.41.30:276][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.10.22-19.41.30:277][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.22-19.41.30:277][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.22-19.41.30:277][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-19.41.30:277][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-19.41.30:278][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-19.41.30:278][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-19.41.30:278][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-19.41.30:278][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-19.41.30:278][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-19.41.30:278][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-19.41.30:278][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.22-19.41.30:278][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.22-19.41.30:278][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.22-19.41.30:278][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-19.41.30:316][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-19.41.30:316][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-19.41.30:557][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.22-19.41.30:559][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-19.41.30:567][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-19.41.30:567][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-19.41.30:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-19.41.30:571][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-19.41.30:571][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-19.41.30:573][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-19.41.30:573][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-19.41.30:574][  0]LogInit: FAudioDevice initialized.
+[2021.10.22-19.41.30:574][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.22-19.41.30:574][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.22-19.41.31:147][  0]LogDerivedDataCache: Saved boot cache 0.57s 95MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.22-19.41.31:149][  0]LogInit: Texture streaming: Enabled
+[2021.10.22-19.41.31:210][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.10.22-19.41.31:236][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.22-19.41.31:236][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.22-19.41.31:254][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.22-19.41.31:524][  0]LogInit: Transaction tracking system initialized
+[2021.10.22-19.41.31:605][  0]BlueprintLog: New page: Editor Load
+[2021.10.22-19.41.31:799][  0]LocalizationService: Localization service is disabled
+[2021.10.22-19.41.31:875][  0]TimingProfiler: Initialize
+[2021.10.22-19.41.31:876][  0]TimingProfiler: OnSessionChanged
+[2021.10.22-19.41.31:876][  0]LoadingProfiler: Initialize
+[2021.10.22-19.41.31:876][  0]LoadingProfiler: OnSessionChanged
+[2021.10.22-19.41.31:876][  0]NetworkingProfiler: Initialize
+[2021.10.22-19.41.31:877][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.22-19.41.31:877][  0]MemoryProfiler: Initialize
+[2021.10.22-19.41.31:877][  0]MemoryProfiler: OnSessionChanged
+[2021.10.22-19.41.32:414][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.22-19.41.32:414][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.22-19.41.32:909][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/' took 0.01s
+[2021.10.22-19.41.33:287][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.22-19.41.33:287][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.22-19.41.33:287][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.22-19.41.33:288][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.22-19.41.33:288][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.22-19.41.33:288][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.22-19.41.33:288][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.22-19.41.33:288][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.22-19.41.33:288][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.22-19.41.33:288][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.22-19.41.33:288][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.22-19.41.33:288][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.22-19.41.33:408][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.22-19.41.33:416][  0]SourceControl: Source control is disabled
+[2021.10.22-19.41.33:416][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.228
+[2021.10.22-19.41.33:416][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Maps/FPSMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.22-19.41.33:456][  0]LightingResults: New page: Lighting Build
+[2021.10.22-19.41.33:461][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-19.41.33:461][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-19.41.33:462][  0]MapCheck: New page: Map Check
+[2021.10.22-19.41.33:462][  0]LightingResults: New page: Lighting Build
+[2021.10.22-19.41.33:482][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-19.41.33:492][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.10.22-19.41.36:487][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FPSMap'.
+[2021.10.22-19.41.36:490][  0]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.22-19.41.36:607][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.22-19.41.36:648][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.10.22-19.41.36:653][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.22-19.41.36:654][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.619ms to complete.
+[2021.10.22-19.41.36:654][  0]LogFileHelpers: Loading map 'FPSMap' took 3.238
+[2021.10.22-19.41.36:667][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.479
+[2021.10.22-19.41.37:169][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-19.41.37:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-19.41.37:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-19.41.37:270][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-19.41.37:427][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0352 seconds. Added 3827 classes and 930 folders.
+[2021.10.22-19.41.37:449][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.10.22-19.41.37:487][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.22-19.41.37:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.22-19.41.37:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.10.22-19.41.37:489][  0]LogPakFile: OnPakFileMounted2Time == 0.001844
+[2021.10.22-19.41.37:531][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.22-19.41.37:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.22-19.41.37:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.10.22-19.41.37:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2021.10.22-19.41.37:550][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.22-19.41.37:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.22-19.41.37:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.10.22-19.41.37:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.10.22-19.41.37:568][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.22-19.41.37:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.22-19.41.37:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.10.22-19.41.37:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.10.22-19.41.37:586][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.22-19.41.37:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.22-19.41.37:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.10.22-19.41.37:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.10.22-19.41.37:599][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.22-19.41.37:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.22-19.41.37:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.10.22-19.41.37:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.10.22-19.41.37:620][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.22-19.41.37:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.22-19.41.37:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.10.22-19.41.37:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.10.22-19.41.37:637][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.22-19.41.37:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.22-19.41.37:637][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:637][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.10.22-19.41.37:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.10.22-19.41.37:653][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.22-19.41.37:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.22-19.41.37:654][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:654][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.22-19.41.37:654][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2021.10.22-19.41.37:675][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.22-19.41.37:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.22-19.41.37:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.10.22-19.41.37:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.10.22-19.41.37:688][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.22-19.41.37:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.22-19.41.37:688][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:689][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.22-19.41.37:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2021.10.22-19.41.37:704][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.22-19.41.37:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.22-19.41.37:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.10.22-19.41.37:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.10.22-19.41.37:732][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.22-19.41.37:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.22-19.41.37:732][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:732][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.10.22-19.41.37:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.10.22-19.41.37:750][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.22-19.41.37:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.22-19.41.37:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.10.22-19.41.37:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2021.10.22-19.41.37:766][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.22-19.41.37:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.22-19.41.37:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.10.22-19.41.37:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.10.22-19.41.37:782][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.22-19.41.37:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.22-19.41.37:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.22-19.41.37:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000183
+[2021.10.22-19.41.37:805][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.22-19.41.37:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.22-19.41.37:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.22-19.41.37:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000343
+[2021.10.22-19.41.37:834][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.22-19.41.37:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.22-19.41.37:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.10.22-19.41.37:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000216
+[2021.10.22-19.41.37:861][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.22-19.41.37:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.22-19.41.37:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:861][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.22-19.41.37:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000216
+[2021.10.22-19.41.37:899][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.22-19.41.37:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.22-19.41.37:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:900][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.10.22-19.41.37:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000192
+[2021.10.22-19.41.37:922][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.22-19.41.37:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.22-19.41.37:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.10.22-19.41.37:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000168
+[2021.10.22-19.41.37:945][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.22-19.41.37:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.22-19.41.37:946][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:946][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.10.22-19.41.37:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000172
+[2021.10.22-19.41.37:969][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.22-19.41.37:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.22-19.41.37:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:969][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.22-19.41.37:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2021.10.22-19.41.37:993][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.22-19.41.37:993][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.37:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.22-19.41.37:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.37:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.22-19.41.37:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000170
+[2021.10.22-19.41.38:020][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.22-19.41.38:020][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.38:020][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.22-19.41.38:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.38:020][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.10.22-19.41.38:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2021.10.22-19.41.38:042][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.22-19.41.38:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.22-19.41.38:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.22-19.41.38:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.22-19.41.38:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.22-19.41.38:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000168
+[2021.10.22-19.41.39:076][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.22-19.41.39:087][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2021.10.22-19.41.39:344][  0]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.22-19.41.39:367][  0]LogSlate: Took 0.019445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.22-19.41.39:371][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.22-19.41.39:973][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.10.22-19.41.40:341][  0]LogSlate: Took 0.019901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.22-19.41.40:558][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.10.22-19.41.40:558][  0]LogLoad: (Engine Initialization) Total time: 29.37 seconds
+[2021.10.22-19.41.40:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.22-19.41.40:835][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.22-19.41.41:615][  2]LogAssetRegistry: Asset discovery search completed in 19.7550 seconds
+[2021.10.22-19.41.41:637][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2021.10.22-20.02.37:717][995]LogSlate: Took 0.000657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.22-20.03.06:203][995]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.22-20.03.06:247][995]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.22-20.03.06:307][995]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.22-20.03.32:908][ 83]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.10.22-20.03.32:927][ 83]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.22-20.03.44:663][607]LogContentBrowser: Attempting asset rename: NewBlueprint -> SaveGameHS
+[2021.10.22-20.03.44:736][607]LogMetaData: Removing '/Game/Blueprints/SaveGameHS.SKEL_SaveGameHS_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.10.22-20.03.44:737][607]LogMetaData: Removing '/Game/Blueprints/SaveGameHS.SaveGameHS_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2021.10.22-20.03.44:874][607]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/SaveGameHSED9BF35C4A8166F39A6C08ADAC36BB2C.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/SaveGameHS.uasset'
+[2021.10.22-20.03.45:056][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.10.22-20.03.45:111][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.10.22-20.03.45:132][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.10.22-20.03.45:278][607]AssetCheck: New page: Asset Save: SaveGameHS
+[2021.10.22-20.03.45:279][607]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SaveGameHS.SaveGameHS
+[2021.10.22-20.04.06:387][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SaveGameHS.SaveGameHS
+[2021.10.22-20.04.07:244][752]LogBlueprintEditor: Perf: 0.7 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.10.22-20.04.07:244][752]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.10.22-20.04.07:244][752]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.10.22-20.04.09:940][752]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2021.10.22-20.04.12:584][752]LogSlate: Took 0.001243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.22-20.05.02:280][ 50]LogSlate: Took 0.019948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.22-20.06.57:390][661]BlueprintLog: New page: Compile SaveGameHS
+[2021.10.22-20.06.57:463][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2021.10.22-20.06.58:436][684]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/SaveGameHSB341108F499088937209999367419AA1.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/SaveGameHS.uasset'
+[2021.10.22-20.06.58:465][684]AssetCheck: New page: Asset Save: SaveGameHS
+[2021.10.22-20.06.58:465][684]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SaveGameHS.SaveGameHS
+[2021.10.22-20.07.33:227][986]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/SaveGameHS6E84E38540B5AE753E42358BCD4A8768.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/SaveGameHS.uasset'
+[2021.10.22-20.07.33:255][986]AssetCheck: New page: Asset Save: SaveGameHS
+[2021.10.22-20.07.33:255][986]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SaveGameHS.SaveGameHS
+[2021.10.22-20.07.40:088][274]LogSlate: Window 'SaveGameHS' being destroyed
+[2021.10.22-20.07.40:105][274]LogSlate: Window 'SaveGameHS' being destroyed
+[2021.10.22-20.07.40:130][274]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-20.07.40:131][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-20.07.54:989][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MyFPSCharacter.BP_MyFPSCharacter
+[2021.10.22-20.07.56:480][555]LogSlate: Took 0.017106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.22-20.08.58:477][692]BlueprintLog: New page: Compile BP_MyFPSCharacter
+[2021.10.22-20.08.58:600][692]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.10.22-20.08.59:671][713]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/BP_MyFPSCharacter675DA2204394EA19871592BFB0879403.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/BP_MyFPSCharacter.uasset'
+[2021.10.22-20.08.59:703][713]AssetCheck: New page: Asset Save: BP_MyFPSCharacter
+[2021.10.22-20.08.59:703][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MyFPSCharacter.BP_MyFPSCharacter
+[2021.10.22-20.09.10:248][890]LogSlate: Window 'BP_MyFPSCharacter' being destroyed
+[2021.10.22-20.09.10:284][890]LogSlate: Window 'BP_MyFPSCharacter' being destroyed
+[2021.10.22-20.09.10:311][890]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-20.09.10:311][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-20.16.03:797][ 97]Cmd: DUPLICATE
+[2021.10.22-20.16.03:798][ 97]Cmd: ACTOR DUPLICATE
+[2021.10.22-20.16.18:984][728]Cmd: DELETE
+[2021.10.22-20.16.18:985][728]Cmd: ACTOR DELETE
+[2021.10.22-20.16.19:025][728]LogEditorActor: Deleted Actor: Hoop_C
+[2021.10.22-20.16.19:104][728]LogUObjectHash: Compacting FUObjectHashTables data took  10.17ms
+[2021.10.22-20.16.19:120][728]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2021.10.22-20.17.06:760][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.10.22-20.17.06:970][140]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto1EC4F6A8D4A33A88FAF8C7095AB161213.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto1.umap'
+[2021.10.22-20.17.06:980][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.263
+[2021.10.22-20.17.06:980][140]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.263
+[2021.10.22-20.18.38:004][ 21]Cmd: DELETE
+[2021.10.22-20.18.38:004][ 21]Cmd: ACTOR DELETE
+[2021.10.22-20.18.38:022][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.22-20.18.38:072][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.22-20.18.38:084][ 21]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2021.10.22-20.18.43:664][319]LogEditorViewport: Clicking on Actor (LMB): Hoop_C (Hoop - Orange)
+[2021.10.22-20.19.32:363][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-20.19.53:178][263]LogSlate: Window 'Hoop' being destroyed
+[2021.10.22-20.19.53:216][263]LogSlate: Window 'Hoop' being destroyed
+[2021.10.22-20.19.53:244][263]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-20.19.53:244][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-20.24.00:685][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-20.25.05:557][938]BlueprintLog: New page: Compile Hoop
+[2021.10.22-20.25.05:703][938]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.10.22-20.27.07:466][827]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2021.10.22-20.27.07:763][827]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto250FF5C54477FAA7A588FC09AD36BF62E.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto2.umap'
+[2021.10.22-20.27.07:785][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.401
+[2021.10.22-20.27.07:785][827]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.401
+[2021.10.22-20.27.07:788][827]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-20.27.07:866][827]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-20.27.07:866][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-20.27.07:929][827]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto2929D537F47CA263A43A241851975B9C7.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto2.uasset'
+[2021.10.22-20.27.07:936][827]LogFileHelpers: Auto-saving content packages took 0.151
+[2021.10.22-20.30.47:594][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stands1)
+[2021.10.22-20.30.51:028][761]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-20.30.51:080][761]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.22-20.30.51:082][761]LogPlayLevel: [PlayLevel] Compiling Hoop before play...
+[2021.10.22-20.30.51:257][761]LogUObjectHash: Compacting FUObjectHashTables data took   9.68ms
+[2021.10.22-20.30.51:259][761]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2021.10.22-20.30.51:278][761]PIE: New page: PIE session: FPSMap (Oct 22, 2021, 12:30:51 PM)
+[2021.10.22-20.30.51:306][761]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.22-20.30.51:313][761]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.22-20.30.51:317][761]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.22-20.30.51:379][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061273s)
+[2021.10.22-20.30.51:384][761]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.22-20.30.51:387][761]LogPlayLevel: PIE: World Init took: (0.007321s)
+[2021.10.22-20.30.51:387][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.069985s)
+[2021.10.22-20.30.51:451][761]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.10.22-20.30.51:455][761]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-20.30.51:456][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-20.30.51:456][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-20.30.51:458][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.22-20.30.51:458][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.22-20.30.51:458][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.22-20.30.51:458][761]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-20.30.51:469][761]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-20.30.51:469][761]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-20.30.51:529][761]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.22-20.30.51:530][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-20.30.51:530][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-20.30.51:531][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-20.30.51:533][761]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-20.30.51:533][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-20.30.51:533][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-20.30.51:537][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-20.30.51:537][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-20.30.51:537][761]LogInit: FAudioDevice initialized.
+[2021.10.22-20.30.51:537][761]LogAudio: Display: Audio Device (ID: 2) registered with world 'FPSMap'.
+[2021.10.22-20.30.51:676][761]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.22-20.30.51:723][761]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2021.10.22-16.30.51
+[2021.10.22-20.30.51:762][761]LogWorld: Bringing up level for play took: 0.061025
+[2021.10.22-20.30.51:765][761]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.22-20.30.51:809][761]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0022 seconds. Added 20 classes and 0 folders.
+[2021.10.22-20.30.51:857][761]PIE: Server logged in
+[2021.10.22-20.30.51:864][761]PIE: Play in editor total start time 0.801 seconds.
+[2021.10.22-20.31.42:036][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-20.31.42:036][793]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.22-20.31.42:040][793]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-20.31.42:043][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-20.31.42:077][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-20.31.42:151][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-20.31.42:228][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-20.31.42:241][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-20.31.42:247][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-20.31.42:373][793]LogUObjectHash: Compacting FUObjectHashTables data took  15.27ms
+[2021.10.22-20.31.42:493][794]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.22-20.37.59:122][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2021.10.22-20.37.59:291][ 48]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto30839A0DA4D4FAE840880CEB4A6788E41.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto3.umap'
+[2021.10.22-20.37.59:301][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.257
+[2021.10.22-20.37.59:301][ 48]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.257
+[2021.10.22-20.55.55:705][378]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2021.10.22-20.55.55:866][378]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto4CB4E72E840B7C7B7F694F98F84DFB5F0.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto4.umap'
+[2021.10.22-20.55.55:876][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.233
+[2021.10.22-20.55.55:876][378]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.233
+[2021.10.22-20.55.55:877][378]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-20.55.55:933][378]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-20.55.55:934][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-20.55.55:985][378]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto4720A7D0044611E161A32A68F3AF6F4F5.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto4.uasset'
+[2021.10.22-20.55.55:989][378]LogFileHelpers: Auto-saving content packages took 0.113
+[2021.10.22-20.57.22:290][158]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.22-20.57.22:354][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-20.57.22:355][158]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-21.05.22:120][178]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.10.22-21.05.22:829][178]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.22-21.05.24:072][178]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-21.05.24:072][178]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-21.05.24:361][179]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.22-21.05.24:380][179]LogHttp: Warning: 0000020A25F73200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x209a527feb0 [can pipeline])
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.223.66.64) port 443 (#0))
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.22-21.05.24:403][179]LogHttp: Warning: 0000020A25F73200: libcurl info message cache 7 (Closing connection 0)
+[2021.10.22-21.05.24:411][179]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.22-21.05.24:426][179]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-21.05.24:426][179]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-21.05.24:551][180]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.22-21.07.39:616][670]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.10.22-21.07.42:585][765]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.10.22-21.07.42:591][765]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.10.22-21.08.35:310][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.10.22-21.08.35:398][800]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto5C451025C48B385CADF357484268BD877.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto5.umap'
+[2021.10.22-21.08.35:403][800]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.129
+[2021.10.22-21.08.35:403][800]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.129
+[2021.10.22-21.08.35:404][800]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-21.08.35:451][800]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-21.08.35:451][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-21.08.35:469][800]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto5E305BB564B522280B0C99E8CC56FEF93.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto5.uasset'
+[2021.10.22-21.08.35:471][800]LogFileHelpers: Auto-saving content packages took 0.067
+[2021.10.22-21.10.20:354][454]BlueprintLog: New page: Compile Hoop
+[2021.10.22-21.10.20:458][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.10.22-21.10.21:517][486]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop77A2445B4A8AD6AD490918A2AD271718.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/Hoop.uasset'
+[2021.10.22-21.10.21:767][486]AssetCheck: New page: Asset Save: Hoop
+[2021.10.22-21.10.21:768][486]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-21.10.22:810][524]LogSlate: Window 'Hoop' being destroyed
+[2021.10.22-21.10.22:823][524]LogSlate: Window 'Hoop' being destroyed
+[2021.10.22-21.10.22:838][524]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-21.10.22:842][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-21.10.25:188][620]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-21.10.25:213][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-21.10.25:213][620]PIE: New page: PIE session: FPSMap (Oct 22, 2021, 1:10:25 PM)
+[2021.10.22-21.10.25:217][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.22-21.10.25:246][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027928s)
+[2021.10.22-21.10.25:293][620]LogAIModule: Creating AISystem for world FPSMap
+[2021.10.22-21.10.25:301][620]LogPlayLevel: PIE: World Init took: (0.054436s)
+[2021.10.22-21.10.25:301][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.084030s)
+[2021.10.22-21.10.25:437][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.10.22-21.10.25:443][620]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.22-21.10.25:443][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-21.10.25:443][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-21.10.25:443][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-21.10.25:443][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-21.10.25:443][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-21.10.25:445][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-21.10.25:445][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-21.10.25:445][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-21.10.25:449][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.22-21.10.25:449][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.22-21.10.25:449][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.22-21.10.25:449][620]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-21.10.25:453][620]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-21.10.25:453][620]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-21.10.25:470][620]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.22-21.10.25:470][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-21.10.25:470][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-21.10.25:470][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-21.10.25:471][620]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-21.10.25:471][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.22-21.10.25:471][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.22-21.10.25:472][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.22-21.10.25:472][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.22-21.10.25:472][620]LogInit: FAudioDevice initialized.
+[2021.10.22-21.10.25:472][620]LogAudio: Display: Audio Device (ID: 3) registered with world 'FPSMap'.
+[2021.10.22-21.10.25:509][620]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2021.10.22-21.10.25:533][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 60) at 2021.10.22-17.10.25
+[2021.10.22-21.10.25:543][620]LogWorld: Bringing up level for play took: 0.028177
+[2021.10.22-21.10.25:552][620]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.10.22-21.10.25:580][620]PIE: Server logged in
+[2021.10.22-21.10.25:582][620]PIE: Play in editor total start time 0.377 seconds.
+[2021.10.22-21.10.58:245][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-21.10.58:245][520]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2021.10.22-21.10.58:249][520]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-21.10.58:253][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-21.10.58:279][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-21.10.58:381][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-21.10.58:403][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.22-21.10.58:406][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-21.10.58:407][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.22-21.10.58:423][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-21.10.58:436][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.10.22-21.10.58:540][521]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.10.22-21.11.11:674][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-21.17.03:286][350]LogRenderer: Reallocating scene render targets to support 964x684 Format 10 NumSamples 1 (Frame:1).
+[2021.10.22-21.19.08:731][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.22-21.19.08:804][ 34]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto63BA5129941C76998AE76E7AA6D9C2D20.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto6.umap'
+[2021.10.22-21.19.08:809][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.108
+[2021.10.22-21.19.08:809][ 34]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2021.10.22-21.19.08:810][ 34]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-21.19.08:867][ 34]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-21.19.08:867][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-21.19.08:894][ 34]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto6E997A9BF4F168B053295E0BEB3AD61D5.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto6.uasset'
+[2021.10.22-21.19.08:897][ 34]LogFileHelpers: Auto-saving content packages took 0.087
+[2021.10.22-21.25.03:200][733]BlueprintLog: New page: Compile Hoop
+[2021.10.22-21.25.03:279][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.10.22-21.25.04:162][762]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop933D0D66429069AE1F96778582D41384.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/Hoop.uasset'
+[2021.10.22-21.25.04:179][762]AssetCheck: New page: Asset Save: Hoop
+[2021.10.22-21.25.04:179][762]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-21.29.14:415][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.22-21.29.14:488][750]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto7C17DE4474BD6AF7836C9529A8874A9A6.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto7.umap'
+[2021.10.22-21.29.14:493][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.106
+[2021.10.22-21.29.14:493][750]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2021.10.22-21.29.14:494][750]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-21.29.14:540][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-21.29.14:540][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-21.29.14:556][750]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto76D01CC374A659F1807A033AB75973623.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto7.uasset'
+[2021.10.22-21.29.14:558][750]LogFileHelpers: Auto-saving content packages took 0.064
+[2021.10.22-21.31.21:157][143]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-21.31.21:189][143]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.22-21.31.21:191][143]LogPlayLevel: [PlayLevel] Compiling Hoop before play...
+[2021.10.22-21.31.21:197][143]LogBlueprint: Error: [AssetLog] C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Content\Blueprints\Hoop.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_MyFPSCharacter  to imply a specific type.
+[2021.10.22-21.31.21:198][143]LogBlueprint: Error: [AssetLog] C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Content\Blueprints\Hoop.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.10.22-21.31.21:266][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.22-21.31.21:269][143]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2021.10.22-21.31.21:269][143]BlueprintLog: Warning: Blueprint failed to compile:  Hoop
+[2021.10.22-21.31.21:272][143]LogCustomDialog: Dialog displayed:
+[2021.10.22-21.31.25:436][143]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.10.22-21.31.25:573][143]LogSlate: Took 0.016122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.22-21.31.27:352][233]LogSlate: Window 'Message Log' being destroyed
+[2021.10.22-21.31.27:359][233]LogSlate: Window 'Message Log' being destroyed
+[2021.10.22-21.37.10:618][208]BlueprintLog: New page: Compile Hoop
+[2021.10.22-21.37.10:686][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.10.22-21.37.11:520][239]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/HoopBA913A0D4A6795E647A33BBBCBA5C1DD.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/Hoop.uasset'
+[2021.10.22-21.37.11:535][239]AssetCheck: New page: Asset Save: Hoop
+[2021.10.22-21.37.11:535][239]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-21.37.13:113][310]LogSlate: Window 'Hoop' being destroyed
+[2021.10.22-21.37.13:129][310]LogSlate: Window 'Hoop' being destroyed
+[2021.10.22-21.37.13:146][310]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-21.37.13:146][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-21.37.15:098][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MyFPSCharacter.BP_MyFPSCharacter
+[2021.10.22-21.37.42:120][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-21.39.15:189][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.10.22-21.39.15:257][421]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto8EB25112F443CB167D518B4B32FD0592D.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto8.umap'
+[2021.10.22-21.39.15:262][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.109
+[2021.10.22-21.39.15:262][421]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.109
+[2021.10.22-21.39.15:263][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-21.39.15:307][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-21.39.15:307][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-21.39.15:328][421]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto86FE31B77428CF381E907D3B95DB1B363.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto8.uasset'
+[2021.10.22-21.39.15:330][421]LogFileHelpers: Auto-saving content packages took 0.067
+[2021.10.22-21.42.40:160][ 40]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.22-21.42.40:172][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-21.42.40:172][ 40]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-21.48.31:862][ 49]LogHttp: Warning: 0000020A71638F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.22-21.48.31:930][ 49]LogHttp: Warning: 0000020A71638F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.10.22-21.48.31:930][ 49]LogHttp: Warning: 0000020A71638F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x209a527e770 [can pipeline])
+[2021.10.22-21.48.31:930][ 49]LogHttp: Warning: 0000020A71638F00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2021.10.22-21.48.31:930][ 49]LogHttp: Warning: 0000020A71638F00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.10.22-21.48.31:930][ 49]LogHttp: Warning: 0000020A71638F00: libcurl info message cache 3 (Closing connection 3)
+[2021.10.22-21.48.32:192][ 50]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.22-21.50.42:322][ 79]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.22-21.50.43:400][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.22-21.50.43:403][ 82]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.035
+[2021.10.22-21.50.43:404][ 82]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Hoop] ([2] browsable assets)...
+[2021.10.22-21.50.43:418][ 82]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Hoop.Hoop]
+[2021.10.22-21.50.43:418][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Hoop]
+[2021.10.22-21.50.43:446][ 82]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop_Auto9542794274EA89B67F07A6AAEBAC80472.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Blueprints/Hoop_Auto9.uasset'
+[2021.10.22-21.50.43:448][ 82]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.10.22-21.50.44:248][ 85]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.22-21.50.44:248][ 85]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.22-21.50.44:248][ 85]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.22-21.50.44:340][ 85]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.22-21.50.44:689][ 87]LogHttp: Warning: 0000020A6D1CAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.22-21.50.44:689][ 87]LogHttp: Warning: 0000020A6D1CAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.10.22-21.50.44:689][ 87]LogHttp: Warning: 0000020A6D1CAB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x209a527e770 [can pipeline])
+[2021.10.22-21.50.44:689][ 87]LogHttp: Warning: 0000020A6D1CAB00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.10.22-21.50.44:689][ 87]LogHttp: Warning: 0000020A6D1CAB00: libcurl info message cache 2 (Closing connection 4)
+[2021.10.22-21.50.45:021][ 88]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.22-21.50.46:167][ 91]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.22-21.50.46:167][ 91]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.22-21.50.46:167][ 91]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.22-21.50.46:363][ 91]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x209a527e770 [can pipeline])
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.41.210) port 443 (#2))
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: 0000020A6D1CB200: libcurl info message cache 7 (Closing connection 2)
+[2021.10.22-21.50.47:043][ 94]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD4642F2A-48F8-8337-7655-A5BB54DEDED9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=77f216064a3ba6169f8777881f42053a%7C55bd8d9743fa401d86ecd9a42d09dd68%7C4a655433-ebd2-4320-9503-174030812c64&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.22-21.50.48:189][ 97]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.10.22-21.50.48:189][ 97]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.10.22-21.50.48:189][ 97]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.10.22-21.50.48:372][ 97]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.10.22-22.00.07:400][ 39]BlueprintLog: New page: Compile Hoop
+[2021.10.22-22.00.07:474][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.10.22-22.00.08:661][ 78]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Hoop85AF58A84D9AF639A857E2B0E2D1960B.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/Hoop.uasset'
+[2021.10.22-22.00.08:676][ 78]AssetCheck: New page: Asset Save: Hoop
+[2021.10.22-22.00.08:676][ 78]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Hoop.Hoop
+[2021.10.22-22.01.52:097][463]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.01.52:097][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.02.19:731][742]Cmd: DELETE
+[2021.10.22-22.02.19:732][742]Cmd: ACTOR DELETE
+[2021.10.22-22.02.19:772][742]LogEditorActor: Deleted Actor: Hoop_C
+[2021.10.22-22.02.19:808][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.10.22-22.02.19:814][742]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2021.10.22-22.02.21:449][854]Cmd: DELETE
+[2021.10.22-22.02.21:449][854]Cmd: ACTOR DELETE
+[2021.10.22-22.02.21:458][854]LogEditorActor: Deleted Actor: Hoop_C
+[2021.10.22-22.02.21:493][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.10.22-22.02.21:494][854]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.10.22-22.03.03:221][508]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/BP_MyFPSCharacter201E74BC4A7580AD59F46692774AF6E8.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Blueprints/BP_MyFPSCharacter.uasset'
+[2021.10.22-22.03.03:250][508]AssetCheck: New page: Asset Save: BP_MyFPSCharacter
+[2021.10.22-22.03.03:250][508]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MyFPSCharacter.BP_MyFPSCharacter
+[2021.10.22-22.03.05:196][586]LogSlate: Window 'BP_MyFPSCharacter' being destroyed
+[2021.10.22-22.03.05:211][586]LogSlate: Window 'BP_MyFPSCharacter' being destroyed
+[2021.10.22-22.03.05:222][586]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.22-22.03.05:222][586]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-22.03.05:223][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-22.03.06:898][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.10.22-22.03.06:969][664]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_Auto0AA0EB40743C12D3D598D018D7EBC1717.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/Autosaves/Game/Maps/FPSMap_Auto0.umap'
+[2021.10.22-22.03.06:975][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FPSMap' took 0.104
+[2021.10.22-22.03.06:975][664]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
+[2021.10.22-22.03.07:331][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.22-22.03.07:398][671]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap07BD9B9641BBCA66056D8FA9F49893FA.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Maps/FPSMap.umap'
+[2021.10.22-22.03.07:611][671]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Saved/FPSMap_BuiltData77B65A9D48EE19C3C058EF8921C444A9.tmp' to '../../../../../../Users/Tyler/Documents/Stony Brook University/Fall 2021/CSE 381/Homework/CSE-381_HW2/FPSProject/Content/Maps/FPSMap_BuiltData.uasset'
+[2021.10.22-22.03.07:640][671]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-22.03.07:640][671]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FPSMap_BuiltData.FPSMap_BuiltData
+[2021.10.22-22.03.07:641][671]LogContentValidation: Display: Validating World /Game/Maps/FPSMap.FPSMap

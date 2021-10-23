@@ -260,11 +260,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/I D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine
-/Yc"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
-/Fo"D:\CSE_381\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/I "C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine"
+/Yc"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp"
+/Fo"C:\Users\Tyler\Documents\Stony Brook University\Fall 2021\CSE 381\Homework\CSE-381_HW2\FPSProject\Intermediate\Build\Win64\FPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 /TP
 /GR-
 /W4
